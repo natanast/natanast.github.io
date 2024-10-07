@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: false
+  title: "Anastasia (Natasa) Anastasiadou"
+
+# website:
+#     description: "Anastasia (Natasa) Anastasiadou - Research Assistant at Bioinformatics Lab."
+#     keywords: "Natasa Anastasiadou, Bioinformatics, Research, Translational Research, Biomedicine"
+#     twitter-card: true
+#     #og-image: "path/to/image.png"
+
+  
+  navbar:
+    background: "#cfe1ed"
+    right: 
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+      - icon: github
+        href: https://github.com/natanast
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/natasa-anastasiadou-87405a220/
+        aria-label: LinkedIn
+        
+
+  page-footer: 
+    border: true
+    left: "This page is built with ❤️, [Quarto](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/)."
+    right: "© 2024 Natasa Anastasiadou."
+
+editor: source
+# 
+# format:
+#   html:
+#     theme: [morph, sass/theme-light.scss]
+#     fig-format: svg
+#     toc: true
+#     code-fold: true
+#     code-block-border-left: "#5f646a"
+# knitr:
+#  opts_chunk:
+#    dev: svg
+#    dev.args: { bg: "transparent" }
+    
