@@ -2,10 +2,14 @@
 title: ""
 ---
 
-# [Anastasia (Natasa) Anastasiadou]{style="font-weight:500;"}
+## [Anastasia (Natasa) Anastasiadou]{style="font-weight:500;"}
 
 Hello! My name is Natasa and I'm currently working as a research assistant in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx). I received my BSc in Biochemistry and Biotechnology from the University of Thessaly and my M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace.
 
 This site is built with Quarto and shared under a Creative Commons Attribution-ShareAlike 4.0 International License. You're welcome to explore and enjoy!
 
-![](images/1712050337388.jpg){fig-align="center" width="1000"}
+![](images/1712050337388.jpg){fig-align="center" width="490"}
+
+::: {style="text-align: center; font-size: .75rem"}
+*Figure caption: Picture from a post on* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7180859584121561088?utm_source=share&utm_medium=member_desktop).
+:::
