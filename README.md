@@ -3,5 +3,3 @@ Welcome to the repository for my personal GitHub page. You can view the live ver
 
 # Description
 This site is built with [Quarto](https://quarto.org/) and shared under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-Thank you for visiting!
