@@ -4,23 +4,20 @@ title: ""
 
 ## [Anastasia (Natasa) Anastasiadou]{style="font-weight:500;"}
 
-Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy! 
-
-
+Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy!
 
 #### About
 
-👩🏻‍💻 Bioinformatics Scientist
+👩🏻‍💻 Bioinformatics Scientist (INAB | CERTH)
 
-👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department \| DUTh)
+👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department \| DUTh)
 
-🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology Department \| UTh)
-
-
+🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department \| UTh)
 
 
-#### 
-I'm currently working as a research assistant in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx).
+#### Current position
+
+Research assistant in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
 ![](images/1712050337388.jpg){fig-align="center" width="490"}
 
