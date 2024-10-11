@@ -18,7 +18,7 @@ website:
     right: 
       - text: Home
         href: index.qmd
-      - text: CV
+      - text: About
         href: about.qmd
       - text: Publications
         href: publications.qmd
