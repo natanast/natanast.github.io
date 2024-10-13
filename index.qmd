@@ -6,7 +6,7 @@ title: ""
 
 Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy!
 
-#### About
+#### Bio
 
 👩🏻‍💻 Bioinformatics Scientist (INAB | CERTH)
 

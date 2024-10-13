@@ -18,10 +18,12 @@ website:
     right: 
       - text: Home
         href: index.qmd
-      - text: CV
-        href: cv.qmd
+      - text: About
+        href: about.qmd
       - text: Publications
         href: publications.qmd
+      - text: Photography
+        href: photography.qmd
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub

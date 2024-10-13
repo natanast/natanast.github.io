@@ -2,16 +2,16 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Conferences and Announcements",
+    "title": "Conference Activity",
     "section": "",
-    "text": "Conferences and Announcements\n\nN. Pechlivanis, A. Anastasiadou, A. Papageorgiou , E. Pafilis , and F. Psomopoulos, “Οdyssey: an R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.\nS.-C. Fragkouli, N. Pechlivanis, A. Orfanou, A. Anastasiadou, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: 10.5281/zenodo.8432060.\n\n\n\nOther\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313.\n\n\n\nTheses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.\nA. Anastasiadou, “Study of genetic variations in patients with haematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021."
+    "text": "Conference Activity\n\nN. Pechlivanis, A. Anastasiadou, A. Papageorgiou , E. Pafilis , and F. Psomopoulos, “Οdyssey: an R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.\nS.-C. Fragkouli, N. Pechlivanis, A. Orfanou, A. Anastasiadou, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: 10.5281/zenodo.8432060.\n\n\n\nOther\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313.\n\n\n\nTheses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.\nA. Anastasiadou, “Study of genetic variations in patients with haematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Education",
+    "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "Education"
+    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”.\n\n\n\n\n\n11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH).\n\n\n\n\nParticipation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
   },
   {
     "objectID": "index.html",
@@ -30,8 +30,78 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Education",
+    "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "Education\n\n2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\n\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\n\nThesis: “Study of genetic variations on patients with hematological malignancies”.\n\n\nEmployment & Scientific Experience\n\n11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH).\n\n\n\nAcademic Services\nParticipation in the organising commite of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
+    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”.\n\n\n\n\n\n11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH).\n\n\n\n\nParticipation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
+  },
+  {
+    "objectID": "cv.html#bio",
+    "href": "cv.html#bio",
+    "title": "Anastasia Anastasiadou",
+    "section": "",
+    "text": "Hello! My name is Natasa, and I’m currently a research assistant at the Bioinformatics Lab, working under the supervision of Dr. Psomopoulos at the Institute of Applied Biosciences, part of the Centre for Research & Technology Hellas.\nI hold a M.Sc. in Translational Research in Biomedicine and a B.Sc. in Biochemistry and Biotechnology. I have a passion for bioinformatics and molecular research, with experience in TP53 gene mutation analysis in patients with Chronic Lymphocytic Leukemia.\nThis site contains information about my publications, projects, and CV."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "Anastasia Anastasiadou",
+    "section": "",
+    "text": "Gene Analysis | TP53 Mutation Analysis | 2023\nImmunogenetics Research | Translational Research in Biomedicine | 2022\nInternship Project | Hematological Malignancies Study | 2021"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”."
+  },
+  {
+    "objectID": "cv.html#employment-scientific-experience",
+    "href": "cv.html#employment-scientific-experience",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH)."
+  },
+  {
+    "objectID": "cv.html#academic-services",
+    "href": "cv.html#academic-services",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Participation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH)."
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH)."
+  },
+  {
+    "objectID": "about.html#academic-services",
+    "href": "about.html#academic-services",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Participation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
   }
 ]

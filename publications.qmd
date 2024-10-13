@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# [Conferences and Announcements]{style="font-weight:400;"}
+# [Conference Activity]{style="font-weight:400;"}
 
 - N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou , E. Pafilis , and F. Psomopoulos, “Οdyssey: an R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.
 
