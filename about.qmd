@@ -8,7 +8,7 @@ about:
       url: "https://www.linkedin.com/in/natasa-anastasiadou-87405a220/"
     - text: GitHub
       icon: github
-      url: " https://github.com/natanast"
+      url: "https://github.com/natanast"
     - text: Email
       url: "mailto:anastasiadounat@gmail.com"
 comments: false
