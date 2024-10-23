@@ -32,16 +32,12 @@ website:
     right: "© 2024 Natasa Anastasiadou."
 
 editor: source
-# 
-# format:
-#   html:
-#     theme: [morph, sass/theme-light.scss]
-#     fig-format: svg
-#     toc: true
-#     code-fold: true
-#     code-block-border-left: "#5f646a"
-# knitr:
-#  opts_chunk:
-#    dev: svg
-#    dev.args: { bg: "transparent" }
-    
+
+format:
+  html:
+    theme: 
+      light: sass/theme-light.scss
+      dark: sass/theme-dark.scss
+    toggle: true
+
+

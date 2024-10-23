@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #333333; // White background
+$body-color: white; // Dark text for readability
+$link-color: #75AADB; // Light blue link color (as you specified)
+
+// Code blocks
+$code-block-bg-alpha: -0.8; // Transparency for the background of code blocks
+
+// Navbar
+$navbar-bg: #2A4D69; // The background of your navbar matches the light blue color you had
+$navbar-color: #f0f0f0; // Dark color for text in the navbar
+
+// Footer
+$page-footer-bg: #333333;
+$page-footer-color: white; // Keep footer text dark for readability
+
+// Buttons
+$btn-primary-bg: #75AADB; // Matches the link color
+$btn-primary-color: white; // White text on buttons
+
+// Blockquote styling for dark mode
+$blockquote-bg: #444444; // Dark background for blockquotes
+$blockquote-border-color: #75AADB; // Keep the light blue border for consistency
+$blockquote-color: #f0f0f0; // Light text for blockquotes
+
+// Table styling for dark mode
+$table-bg: #444444; // Dark background for tables
+$table-border-color: #666666; // Medium gray for borders
