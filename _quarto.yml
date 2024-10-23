@@ -6,24 +6,18 @@ website:
   search: false
   title: "Anastasia (Natasa) Anastasiadou"
 
-# website:
-#     description: "Anastasia (Natasa) Anastasiadou - Research Assistant at Bioinformatics Lab."
-#     keywords: "Natasa Anastasiadou, Bioinformatics, Research, Translational Research, Biomedicine"
-#     twitter-card: true
-#     #og-image: "path/to/image.png"
 
-  
   navbar:
     background: "#cfe1ed"
     right: 
       - text: Home
         href: index.qmd
       - text: About
-        href: about.qmd
+        href: qmd/about.qmd
       - text: Publications
-        href: publications.qmd
+        href: qmd/publications.qmd
       - text: Photography
-        href: photography.qmd
+        href: qmd/photography.qmd
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub

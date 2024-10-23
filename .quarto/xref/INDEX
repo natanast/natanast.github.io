@@ -13,5 +13,14 @@
   },
   "photography.qmd": {
     "photography.html": "cf3e4424"
+  },
+  "qmd/about.qmd": {
+    "about.html": "d0c395a6"
+  },
+  "qmd/photography.qmd": {
+    "photography.html": "a2dca857"
+  },
+  "qmd/publications.qmd": {
+    "publications.html": "7168f449"
   }
 }

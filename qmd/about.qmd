@@ -2,7 +2,7 @@
 title: ""
 about:
   template: trestles 
-  image: images/DSC_1003.JPG
+  image: ../images/DSC_1003.JPG
   links:
     - text: LinkedIn
       url: "https://www.linkedin.com/in/natasa-anastasiadou-87405a220/"
