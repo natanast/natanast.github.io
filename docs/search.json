@@ -54,5 +54,61 @@
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
     "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
+  },
+  {
+    "objectID": "qmd/visual_portfolio.html",
+    "href": "qmd/visual_portfolio.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Check out some of my public projects below"
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual.html",
+    "href": "qmd/portfolio/immunovisual.html",
+    "title": "Immunovisual",
+    "section": "",
+    "text": "Immunovisual\n\nAbout this project\nThis project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\nLearn more about some of the key tools from this project by clicking on the hex."
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual.html#about-this-project",
+    "href": "qmd/portfolio/immunovisual.html#about-this-project",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "This project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual"
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual.html#who-was-involved",
+    "href": "qmd/portfolio/immunovisual.html#who-was-involved",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "Who was involved",
+    "text": "Who was involved\nThis project was built by me and the incredible Will Bonnell and Shalima Zalsha, with oversight and design feedback by Nola du Toit.\nWill made the really cool ‘game board’ on the home page and did a lot of the site styling, including the characteristics selector on the ‘Trajectories’ page, which was one of my first intros to shinyjs. Shalima lead the development of the beautiful plotly-based graphics on the ‘Certificate Attainment’ page.\n\nMy role\nWill and I worked the parallel sets diagrams together, and I did a lot of the site styling and layout. This was one of my first projects where I had to start learning CSS and how to style a Shiny site; I learned a ton throughout the process."
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual.html#tools-used",
+    "href": "qmd/portfolio/immunovisual.html#tools-used",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "Tools used",
+    "text": "Tools used\nThe whole site is a shiny application. We used r2d3 for the D3-based parallel sets diagrams.\nLearn more about some of the key tools from this project by clicking on the hex."
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual.html#immunovisual",
+    "href": "qmd/portfolio/immunovisual.html#immunovisual",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "This project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual\n\n\n\nThis project was built by me and the incredible Will Bonnell and Shalima Zalsha, with oversight and design feedback by Nola du Toit.\nWill made the really cool ‘game board’ on the home page and did a lot of the site styling, including the characteristics selector on the ‘Trajectories’ page, which was one of my first intros to shinyjs. Shalima lead the development of the beautiful plotly-based graphics on the ‘Certificate Attainment’ page.\n\n\nWill and I worked the parallel sets diagrams together, and I did a lot of the site styling and layout. This was one of my first projects where I had to start learning CSS and how to style a Shiny site; I learned a ton throughout the process."
+  },
+  {
+    "objectID": "qmd/portfolio/immunovisual/immunovisual.html",
+    "href": "qmd/portfolio/immunovisual/immunovisual.html",
+    "title": "Immunovisual",
+    "section": "",
+    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Immunovisual."
+  },
+  {
+    "objectID": "qmd/portfolio/odyssey/odyssey.html",
+    "href": "qmd/portfolio/odyssey/odyssey.html",
+    "title": "Odyssey",
+    "section": "",
+    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shinny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
   }
 ]

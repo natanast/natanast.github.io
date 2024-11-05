@@ -1,0 +1,11 @@
+---
+listing: 
+  id: portfolio-listings
+  contents: portfolio
+  type: grid
+  grid-columns: 2
+  image-height: '15rem'
+---
+
+
+## [Check out some of my public projects below!]{style="font-weight:400;"}

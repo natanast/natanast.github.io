@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Anastasia (Natasa) Anastasiadou</title>
+<title>visual_portfolio – Anastasia (Natasa) Anastasiadou</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,20 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -52,10 +54,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-portfolio-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-portfolio-listings'] = new List('listing-portfolio-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="sass/style.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../sass/style.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -65,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Anastasia (Natasa) Anastasiadou</span>
     </a>
   </div>
@@ -75,23 +135,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./qmd/about.html"> 
+    <a class="nav-link" href="../qmd/about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./qmd/publications.html"> 
+    <a class="nav-link" href="../qmd/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./qmd/visual_portfolio.html"> 
+    <a class="nav-link active" href="../qmd/visual_portfolio.html" aria-current="page"> 
 <span class="menu-text">Visual Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./qmd/photography.qmds"> 
+    <a class="nav-link" href="../qmd/photography.html"> 
 <span class="menu-text">Photography</span></a>
   </li>  
   <li class="nav-item compact">
@@ -123,32 +183,64 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="anastasia-natasa-anastasiadou" class="level2">
-<h2 class="anchored" data-anchor-id="anastasia-natasa-anastasiadou"><span style="font-weight:500;">Anastasia (Natasa) Anastasiadou</span></h2>
-<p>Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!</p>
-<section id="bio" class="level4">
-<h4 class="anchored" data-anchor-id="bio">Bio</h4>
-<p>👩🏻‍💻 Bioinformatics Scientist (INAB | CERTH)</p>
-<p>👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology &amp; Genetics Department | DUTh)</p>
-<p>🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry &amp; Biotechnology Department | UTh)</p>
+<section id="check-out-some-of-my-public-projects-below" class="level2">
+<h2 class="anchored" data-anchor-id="check-out-some-of-my-public-projects-below"><span style="font-weight:400;">Check out some of my public projects below!</span></h2>
+
+
+
 </section>
-<section id="current-position" class="level4">
-<h4 class="anchored" data-anchor-id="current-position">Current position</h4>
-<p>Research assistant in <a href="https://biodataanalysisgroup.github.io/">Bioinformatics lab</a>, under the supervision of Dr.&nbsp;Psomopoulos, at the <a href="https://www.inab.certh.gr/">Institute of Applied Biosciences</a> (INAB), situated within the <a href="https://www.certh.gr/root.en.aspx">Centre for Research &amp; Technology, Hellas</a> (CERTH).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/1712050337388.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="490"></p>
-</figure>
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-portfolio-listings">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1730805687995" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
+<a href="../qmd/portfolio/immunovisual/immunovisual.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../qmd/portfolio/immunovisual/immunovisual.png" class="thumbnail-image card-img" style="height: 15rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<span style="font-weight:400;">Immunovisual</span>
+</h5>
+<div class="card-text listing-description">
+A collection of charts made with the R programming language, focusing on immunogenetics analyses.
 </div>
-<div style="text-align: center; font-size: .75rem">
-<p><em>Figure caption: Picture from a post on</em> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7180859584121561088?utm_source=share&amp;utm_medium=member_desktop">LinkedIn</a>.</p>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
 </div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1730805681194" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
+<a href="../qmd/portfolio/odyssey/odyssey.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../qmd/portfolio/odyssey/odyssey.png" class="thumbnail-image card-img" style="height: 15rem;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<span style="font-weight:400;">Odyssey</span>
+</h5>
+<div class="card-text listing-description">
+Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-
-</section>
-</section>
-
-</main> <!-- /main -->
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -731,5 +823,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

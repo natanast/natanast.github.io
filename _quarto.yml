@@ -16,6 +16,8 @@ website:
         href: qmd/about.qmd
       - text: Publications
         href: qmd/publications.qmd
+      - text: Visual Portfolio
+        href: qmd/visual_portfolio.qmd
       - text: Photography
         href: qmd/photography.qmd
       - icon: github

@@ -25,5 +25,17 @@
   },
   "docs/About.qmd": {
     "About.html": "9e6e37f1"
+  },
+  "qmd/visual_portfolio.qmd": {
+    "visual_portfolio.html": "f76b0c31"
+  },
+  "qmd/portfolio/immunovisual.qmd": {
+    "immunovisual.html": "491bc87a"
+  },
+  "qmd/portfolio/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "958a93cd"
+  },
+  "qmd/portfolio/odyssey/odyssey.qmd": {
+    "odyssey.html": "5b596a33"
   }
 }
