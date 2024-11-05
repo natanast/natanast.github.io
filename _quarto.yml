@@ -31,13 +31,16 @@ website:
     left: "This page is built with ❤️, [Quarto](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/)."
     right: "© 2024 Natasa Anastasiadou."
 
-editor: source
 
 format:
   html:
+    css: sass/style.css
+    toc: false
+    minimal: false
+    smooth-scroll: true
     theme: 
       light: sass/theme-light.scss
       dark: sass/theme-dark.scss
     toggle: true
 
-
+editor: visual
