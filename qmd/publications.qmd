@@ -5,7 +5,7 @@ title: ""
 # [Conferences and Announcements]{style="font-weight:400;"}
 ### [Posters]{style="font-weight:400;"}
 
-- N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, [doi: 10.5281/ZENODO.14186452] (https://doi.org/10.5281/zenodo.14186453).
+- N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, [doi: 10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
 
 - S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186509.
 
