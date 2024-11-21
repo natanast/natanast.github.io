@@ -3,27 +3,25 @@ title: ""
 ---
 
 # [Conferences and Announcements]{style="font-weight:400;"}
+
 ### [Posters]{style="font-weight:400;"}
 
-- N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, [doi: 10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
+-   N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
 
-- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186509.
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186509](https://doi.org/10.5281/ZENODO.14186509).
 
-- G. Gkoliou,  N. Pechlivanis,  S. Chatzileontiadou,  C. Frouzaki,  G. Karakatsoulis,  **A. Anastasiadou**,  E. Vlachonikola,  M. Gerousi,  F. Psomopoulos,  M. Papaioannou,  K. Chlichlia,  K. Stamatopoulos,  E. Hatjiharissi,  A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
+-   G. Gkoliou, N. Pechlivanis, S. Chatzileontiadou, C. Frouzaki, G. Karakatsoulis, **A. Anastasiadou**, E. Vlachonikola, M. Gerousi, F. Psomopoulos, M. Papaioannou, K. Chlichlia, K. Stamatopoulos, E. Hatjiharissi, A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
 
-- S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: 10.5281/zenodo.8432060.
-
+-   S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: [10.5281/zenodo.8432060](https://doi.org/10.5281/zenodo.8432060).
 
 # [Other]{style="font-weight:400;"}
-- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.
 
-- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313.
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: [10.7490/f1000research.1119793.1](https://doi.org/10.7490/f1000research.1119793.1).
 
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: [10.1101/2024.03.07.582313](https://doi.org/10.1101/2024.03.07.582313).
 
 # [Theses]{style="font-weight:400;"}
-- A. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.”  Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.
 
-- A. Anastasiadou, “Study of genetic variations in patients with haematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021.
+-   A. Anastasiadou, “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.
 
-
-
+-   A. Anastasiadou, “Study of genetic variations in patients with haematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021.
