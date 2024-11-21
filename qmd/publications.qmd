@@ -5,9 +5,9 @@ title: ""
 # [Conferences and Announcements]{style="font-weight:400;"}
 ### [Posters]{style="font-weight:400;"}
 
-- N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou , E. Pafilis , and F. Psomopoulos, “Οdyssey: an R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.
+- N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186452.
 
-- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)”, Sep. 2024.
+- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186509.
 
 - G. Gkoliou,  N. Pechlivanis,  S. Chatzileontiadou,  C. Frouzaki,  G. Karakatsoulis,  **A. Anastasiadou**,  E. Vlachonikola,  M. Gerousi,  F. Psomopoulos,  M. Papaioannou,  K. Chlichlia,  K. Stamatopoulos,  E. Hatjiharissi,  A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
 
