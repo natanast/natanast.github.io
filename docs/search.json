@@ -25,7 +25,7 @@
     "href": "qmd/about.html",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”.\n\n\n\n\n\n11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH).\n\n\n\n\nParticipation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
+    "text": "I am Natasa and I am a computational scientist, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH).\nI received my BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics.\nCurrently, my main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications, making data exploration and visualization more accessible and user-friendly for researchers."
   },
   {
     "objectID": "qmd/about.html#education",
@@ -110,5 +110,12 @@
     "title": "Odyssey",
     "section": "",
     "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shinny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
+  },
+  {
+    "objectID": "qmd/about.html#about",
+    "href": "qmd/about.html#about",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "I am Natasa and I am a computational scientist, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH).\nI received my BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics.\nCurrently, my main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications, making data exploration and visualization more accessible and user-friendly for researchers."
   }
 ]
