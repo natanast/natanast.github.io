@@ -15,32 +15,11 @@ comments: false
 ---
 
 ::: column-page
-## [Education]{style="font-weight:400;"}
+## About
 
--   2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\
-    Thesis: “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia”.
+I am Natasa and I am a computational scientist, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH).
 
--   2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\
-    Thesis: “Study of genetic variations on patients with hematological malignancies”.
+I received my BSc in **Biochemistry and Biotechnology** from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc in **Translational Research in Biomedicine** from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics.
 
-## [Work Experience]{style="font-weight:400;"}
-
--   11/2023 - present, **Research Assistant**, Bioinformatics Lab, (INAB \| CERTH).
-
--   10/2021 - 10/2023, **Master Student**, Immunogenetics Lab, (INAB \| CERTH).
-
--   03/2020 - 09/2021, **Undergraduate Student**, Immunogenetics Lab, (INAB \| CERTH).
-
--   07/2019 - 08/2019, **Internship**, Immunogenetics Lab, (INAB \| CERTH).
-
-## [Academic Services]{style="font-weight:400;"}
-
-Participation in the organising committee of:
-
--   ML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.
-
--   EOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.
-
--   17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23.
-
+Currently, my main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications, making data exploration and visualization more accessible and user-friendly for researchers.
 :::
