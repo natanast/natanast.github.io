@@ -19,7 +19,7 @@ comments: false
 
 I am Natasa and I am a computational scientist, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH).
 
-I received my BSc in **Biochemistry and Biotechnology** from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc in **Translational Research in Biomedicine** from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics.
+I received my **B.Sc.** in **Biochemistry and Biotechnology** from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a **M.Sc.** in **Translational Research in Biomedicine** from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics.
 
 Currently, my main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications, making data exploration and visualization more accessible and user-friendly for researchers.
 :::
