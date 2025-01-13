@@ -23,3 +23,4 @@ I received my **B.Sc.** in **Biochemistry and Biotechnology** from the Universit
 
 Currently, my main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications, making data exploration and visualization more accessible and user-friendly for researchers.
 :::
+
