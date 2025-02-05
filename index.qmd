@@ -16,7 +16,7 @@ Hello! My name is Natasa and this is my personal page! You're welcome to explore
 
 #### Current position
 
-Research assistant in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
+Bioinformatics Scientist in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
 ![](images/1712050337388.jpg){fig-align="center" width="490"}
 
