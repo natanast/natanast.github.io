@@ -37,5 +37,8 @@
   },
   "qmd/portfolio/odyssey/odyssey.qmd": {
     "odyssey.html": "5b596a33"
+  },
+  "qmd/portfolio/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "0b125d11"
   }
 }

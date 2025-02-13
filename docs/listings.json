@@ -3,7 +3,8 @@
     "listing": "/qmd/visual_portfolio.html",
     "items": [
       "/qmd/portfolio/immunovisual/immunovisual.html",
-      "/qmd/portfolio/odyssey/odyssey.html"
+      "/qmd/portfolio/odyssey/odyssey.html",
+      "/qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html"
     ]
   }
 ]

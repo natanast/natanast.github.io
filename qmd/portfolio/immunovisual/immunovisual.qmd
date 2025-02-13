@@ -4,7 +4,7 @@ image: immunovisual.png
 description: "A collection of charts made with the R programming language, focusing on immunogenetics analyses."
 ---
 
-# [Immunovisual]{style="font-weight:400;"}
+# Immunovisual
 
 ### About this project
 
