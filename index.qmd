@@ -6,7 +6,7 @@ title: ""
 
 Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy!
 
-#### Bio
+#### Bio {style="margin-top: -5px;"}
 
 👩🏻‍💻 Bioinformatics Scientist (INAB \| CERTH)
 
@@ -14,12 +14,12 @@ Hello! My name is Natasa and this is my personal page! You're welcome to explore
 
 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department \| UTh)
 
-#### Current position
+#### Current position {style="margin-top: -5px;"}
 
 Bioinformatics Scientist in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of Dr. Psomopoulos, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
 ![](images/1712050337388.jpg){fig-align="center" width="490"}
 
-::: {style="text-align: center; font-size: .75rem"}
+::: {style="text-align: center; font-size: .75rem; margin-top: -25px;"}
 *Figure caption: Picture from a post on* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7180859584121561088?utm_source=share&utm_medium=member_desktop).
 :::
