@@ -4,7 +4,7 @@ image: odyssey.png
 description: " Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece."
 ---
 
-# [Odyssey]{style="font-weight:400;"}
+# Odyssey
 
 ### About this project
 
@@ -14,7 +14,6 @@ description: " Odyssey is an R shiny application for the exploration of Molecula
 
 -   The current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations
 
-
 ### Who was involved
 
 This project was built by me and the incredible [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
@@ -22,7 +21,6 @@ This project was built by me and the incredible [Nikos Pechlivanis](https://npec
 ### Tools used
 
 The entire site is a `Shinny` application. We mostly used `echarts4r` for the visualizations.
-
 
 ### Visit site
 

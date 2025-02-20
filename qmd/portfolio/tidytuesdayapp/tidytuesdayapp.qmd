@@ -1,0 +1,23 @@
+---
+title: ""
+image: tidytuesdayapp.png
+description: "This Shiny app is an extension of my participation in the #TidyTuesday challenge."
+---
+
+# TidyTuesday Shiny App
+
+### About this project
+
+-   This Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.
+
+-   It provides a user-friendly way to engage with the #TidyTuesday challenge, whether you're looking for inspiration, examples, or insights into my data analysis journey.
+
+-   TidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.
+
+### Tools used
+
+The entire site is a `Shinny` application.
+
+### Visit site
+
+Learn more about by visiting the app: [TidyTuesday_app](https://nanastas.shinyapps.io/tidytuesday_shinyapp/).

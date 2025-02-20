@@ -3,9 +3,9 @@ listing:
   id: portfolio-listings
   contents: portfolio
   type: grid
-  grid-columns: 2
-  image-height: '15rem'
+  grid-columns: 1  # 1 item per row
+  image-height: '25rem'  # Adjust image size
+  sort: "title" 
 ---
-
 
 ## [Check out some of my public projects below!]{style="font-weight:400;"}
