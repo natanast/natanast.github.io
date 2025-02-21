@@ -11,6 +11,8 @@ about:
       url: "https://github.com/natanast"
     - text: Email
       url: "mailto:anastasiadounat@gmail.com"
+    - text: CV
+      url: "./files/cv.pdf"
 comments: false
 ---
 
