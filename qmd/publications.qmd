@@ -6,12 +6,17 @@ title: ""
 
 ### [Posters]{style="font-weight:400;"}
 
+#### 2025
+
+-   A. Iatrou, M. Gerousi, N. Pechlivanis, **A. Anastasiadou**, R. Sandaltzopoulos, I. Sakellari, N. Stavrogianni, F. Psomopoulos, A. Agathangelidis, A. Chatzidimitriou, K. Stamatopoulos, “Evidence for a Pre-Switched Population and Unmutated Immunoglobulin Receptors in IgG-Expressing CLL Stereotyped Subset #4, 30th European Hematology Association Congress (EHA)”, June 2025.
+
+#### 2024
+
 -   N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
 
 -   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186509](https://doi.org/10.5281/ZENODO.14186509).
 
--   M. Gerousi, M. Fitopoulou, M. Galanou, P. Rock, G. Karakatsoulis, **A. Anastasiadou**, M. Karipidou, A. Iatrou, E. Karamanli, N. Vastarouchas, P. Ghia, C. C. Chu, C. S. Zent, R. Burack, A. Chatzidimitriou, K. Stamatopoulos, “Distinct Signaling Profiles in Primary Splenic Small B-Cell Lymphomas,” *Blood*, vol. 144, Supplement 1, p. 3002, 2024, doi:
-[10.1182/blood-2024-207057](https://doi.org/10.1182/blood-2024-207057).
+-   M. Gerousi, M. Fitopoulou, M. Galanou, P. Rock, G. Karakatsoulis, **A. Anastasiadou**, M. Karipidou, A. Iatrou, E. Karamanli, N. Vastarouchas, P. Ghia, C. C. Chu, C. S. Zent, R. Burack, A. Chatzidimitriou, K. Stamatopoulos, “Distinct Signaling Profiles in Primary Splenic Small B-Cell Lymphomas,” *Blood*, vol. 144, Supplement 1, p. 3002, 2024, doi: [10.1182/blood-2024-207057](https://doi.org/10.1182/blood-2024-207057).
 
 -   G. Gkoliou, N. Pechlivanis, S. Chatzileontiadou, C. Frouzaki, G. Karakatsoulis, **A. Anastasiadou**, E. Vlachonikola, M. Gerousi, F. Psomopoulos, M. Papaioannou, K. Chlichlia, K. Stamatopoulos, E. Hatjiharissi, A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
 
