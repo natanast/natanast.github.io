@@ -12,6 +12,8 @@ title: ""
 
 -   A.-Z. Kouroutzidou, S. Laidou, A. Anastasiadou, N. Pechlivanis, M. Fitopoulou, M. Gerousi, P. Rock, C. S. Zent, C. C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, “Genomic Profiling Identifies Unique Molecular Subgroups in Splenic Small B-Cell Lymphomas, 30th European Hematology Association Congress (EHA)”, June 2025, PF1021.
 
+-  M. Gerousi, M. Fitopoulou, N. Pechlivanis, A. Anastasiadou, P. Rock, G. Karakatsoulis, M. Smaropoulou, P. Talimtzi, C. C. Chu, C. Zent, R. Burack, E. Theodosiou, F. Psomopoulos, A. Chatzidimitriou, K. Stamatopoulos, “Molecular and Cellular Responses to External Triggering in Primary Splenic Small B-Cell Lymphomas: A Transcriptomic and Bioenergetic Perspective, 30th European Hematology Association Congress (EHA)”, June 2025, PF1011.
+
 #### 2024
 
 -   N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
