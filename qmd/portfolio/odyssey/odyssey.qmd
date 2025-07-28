@@ -20,7 +20,7 @@ This project was built by me and the incredible [Nikos Pechlivanis](https://npec
 
 ### Tools used
 
-The entire site is a `Shinny` application. We mostly used `echarts4r` for the visualizations.
+The entire site is a `Shiny` application. We mostly used `echarts4r` for the visualizations.
 
 ### Visit site
 
