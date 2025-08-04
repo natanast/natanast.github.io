@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.">
 
-<title>visual_portfolio – Anastasia (Natasa) Anastasiadou</title>
+<title>daychartchallenge – Anastasia (Natasa) Anastasiadou</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +24,20 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2f29f63064900b4ed6d0b451cd7bdfcc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-6b50ad3444d3837929ea49e90fbacbb1.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f29f63064900b4ed6d0b451cd7bdfcc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-6b50ad3444d3837929ea49e90fbacbb1.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -54,68 +53,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-portfolio-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-portfolio-listings'] = new List('listing-portfolio-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../sass/style.css">
+<link rel="stylesheet" href="../../../sass/style.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -125,7 +66,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Anastasia (Natasa) Anastasiadou</span>
     </a>
   </div>
@@ -135,23 +76,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../qmd/about.html"> 
+    <a class="nav-link" href="../../../qmd/about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../qmd/publications.html"> 
+    <a class="nav-link" href="../../../qmd/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../qmd/visual_portfolio.html" aria-current="page"> 
+    <a class="nav-link" href="../../../qmd/visual_portfolio.html"> 
 <span class="menu-text">Visual Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../qmd/photography.html"> 
+    <a class="nav-link" href="../../../qmd/photography.html"> 
 <span class="menu-text">Photography</span></a>
   </li>  
   <li class="nav-item compact">
@@ -183,108 +124,33 @@ window.Quarto = {
 
 
 
-<section id="check-out-some-of-my-public-projects-below" class="level2">
-<h2 class="anchored" data-anchor-id="check-out-some-of-my-public-projects-below"><span style="font-weight:400;">Check out some of my public projects below!</span></h2>
-
+<section id="odyssey" class="level1">
+<h1>Odyssey</h1>
+<section id="about-this-project" class="level3">
+<h3 class="anchored" data-anchor-id="about-this-project">About this project</h3>
+<ul>
+<li><p>Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.</p></li>
+<li><p>The app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.</p></li>
+<li><p>The current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations</p></li>
+</ul>
+</section>
+<section id="who-was-involved" class="level3">
+<h3 class="anchored" data-anchor-id="who-was-involved">Who was involved</h3>
+<p>This project was built by me and the incredible <a href="https://npechl.github.io/" target="_blank">Nikos Pechlivanis</a>.</p>
+</section>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools used</h3>
+<p>The entire site is a <code>Shiny</code> application. We mostly used <code>echarts4r</code> for the visualizations.</p>
+</section>
+<section id="visit-site" class="level3">
+<h3 class="anchored" data-anchor-id="visit-site">Visit site</h3>
+<p>Learn more about by visiting our site: <a href="https://npechl.shinyapps.io/odyssey/">Odyssey</a>.</p>
 
 
 </section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-portfolio-listings">
-<div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1754311571629" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
-<a href="../qmd/portfolio/immunovisual/immunovisual.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../qmd/portfolio/immunovisual/immunovisual.png" class="thumbnail-image card-img" style="height: 25rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Immunovisual
-</h5>
-<div class="card-text listing-description">
-A collection of charts made with the R programming language, focusing on immunogenetics analyses.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1754311571633" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
-<a href="../qmd/portfolio/30daychartchallenge/30daychartchallenge.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../qmd/portfolio/30daychartchallenge/odyssey.png" class="thumbnail-image card-img" style="height: 25rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Odyssey
-</h5>
-<div class="card-text listing-description">
-Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1754311571633" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
-<a href="../qmd/portfolio/odyssey/odyssey.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../qmd/portfolio/odyssey/odyssey.png" class="thumbnail-image card-img" style="height: 25rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Odyssey
-</h5>
-<div class="card-text listing-description">
-Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1754311571636" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
-<a href="../qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../qmd/portfolio/tidytuesdayapp/tidytuesdayapp.png" class="thumbnail-image card-img" style="height: 25rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-TidyTuesday Shiny App
-</h5>
-<div class="card-text listing-description">
-This Shiny app is an extension of my participation in the #TidyTuesday challenge.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -864,5 +730,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

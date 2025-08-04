@@ -40,5 +40,8 @@
   },
   "qmd/portfolio/tidytuesdayapp/tidytuesdayapp.qmd": {
     "tidytuesdayapp.html": "0b125d11"
+  },
+  "qmd/portfolio/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "a3f31850"
   }
 }
