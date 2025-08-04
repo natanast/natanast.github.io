@@ -1,10 +1,10 @@
 ---
 title: ""
-image: odyssey.png
+image: 30daychartchallenge.png
 description: " Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece."
 ---
 
-# Odyssey
+# 30DayChartChallenge
 
 ### About this project
 

@@ -2,8 +2,8 @@
   {
     "listing": "/qmd/visual_portfolio.html",
     "items": [
-      "/qmd/portfolio/immunovisual/immunovisual.html",
       "/qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/immunovisual/immunovisual.html",
       "/qmd/portfolio/odyssey/odyssey.html",
       "/qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html"
     ]

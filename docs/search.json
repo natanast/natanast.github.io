@@ -128,8 +128,8 @@
   {
     "objectID": "qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
     "href": "qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
-    "title": "Odyssey",
+    "title": "30DayChartChallenge",
     "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
+    "text": "30DayChartChallenge\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
   }
 ]
