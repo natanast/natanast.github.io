@@ -8,6 +8,12 @@ title: ""
 
 #### 2025
 
+-   F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: [10.12688/openreseurope.20934.1](https://doi.org/10.12688/openreseurope.20934.1).
+
+### [Posters]{style="font-weight:400;"}
+
+#### 2025
+
 -   A. Iatrou, M. Gerousi, N. Pechlivanis, **A. Anastasiadou**, R. Sandaltzopoulos, I. Sakellari, N. Stavrogianni, F. Psomopoulos, A. Agathangelidis, A. Chatzidimitriou, K. Stamatopoulos, “Evidence for a Pre-Switched Population and Unmutated Immunoglobulin Receptors in IgG-Expressing CLL Stereotyped Subset #4, 30th European Hematology Association Congress (EHA)”, June 2025, PF564.
 
 -   A.-Z. Kouroutzidou, S. Laidou, **A. Anastasiadou**, N. Pechlivanis, M. Fitopoulou, M. Gerousi, P. Rock, C. S. Zent, C. C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, “Genomic Profiling Identifies Unique Molecular Subgroups in Splenic Small B-Cell Lymphomas, 30th European Hematology Association Congress (EHA)”, June 2025, PF1021.
