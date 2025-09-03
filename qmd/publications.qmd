@@ -8,7 +8,7 @@ title: ""
 
 #### 2025
 
--   F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: [10.12688/openreseurope.20934.1](https://doi.org/10.12688/openreseurope.20934.1).
+-   F. Psomopoulos, C. O’Cathail, **N. Anastasiadou**, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: [10.12688/openreseurope.20934.1](https://doi.org/10.12688/openreseurope.20934.1).
 
 ### [Posters]{style="font-weight:400;"}
 
