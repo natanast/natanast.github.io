@@ -2,13 +2,13 @@
 title: ""
 ---
 
-# [Conferences and Announcements]{style="font-weight:400;"}
-
-### [Publications]{style="font-weight:400;"}
+## [Publications]{style="font-weight:400;"}
 
 #### 2025
 
 -   F. Psomopoulos, C. O’Cathail, **N. Anastasiadou**, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: [10.12688/openreseurope.20934.1](https://doi.org/10.12688/openreseurope.20934.1).
+
+## [Conferences and Announcements]{style="font-weight:400;"}
 
 ### [Posters]{style="font-weight:400;"}
 
@@ -32,13 +32,13 @@ title: ""
 
 -   S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: [10.5281/zenodo.8432060](https://doi.org/10.5281/zenodo.8432060).
 
-# [Other]{style="font-weight:400;"}
+## [Other]{style="font-weight:400;"}
 
 -   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: [10.7490/f1000research.1119793.1](https://doi.org/10.7490/f1000research.1119793.1).
 
 -   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: [10.1101/2024.03.07.582313](https://doi.org/10.1101/2024.03.07.582313).
 
-# [Theses]{style="font-weight:400;"}
+## [Theses]{style="font-weight:400;"}
 
 -   A. Anastasiadou, “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.
 
