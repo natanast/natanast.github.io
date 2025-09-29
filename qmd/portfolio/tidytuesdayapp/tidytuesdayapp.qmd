@@ -16,7 +16,7 @@ description: "This Shiny app is an extension of my participation in the #TidyTue
 
 ### Tools used
 
-The entire site is a `Shinny` application.
+The entire site is a `Shiny` application.
 
 ### Visit site
 
