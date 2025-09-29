@@ -16,7 +16,7 @@ description: "A collection of charts made with the R programming language, focus
 
 ### Who was involved
 
-This project was built by me and the incredible [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
+This project was built by me and [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
 
 ### Tools used
 

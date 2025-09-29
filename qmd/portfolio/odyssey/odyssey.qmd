@@ -16,7 +16,7 @@ description: " Odyssey is an R shiny application for the exploration of Molecula
 
 ### Who was involved
 
-This project was built by me and the incredible [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
+This project was built by me and [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
 
 ### Tools used
 
@@ -24,4 +24,4 @@ The entire site is a `Shiny` application. We mostly used `echarts4r` for the vis
 
 ### Visit site
 
-Learn more about by visiting our site: [Odyssey](https://npechl.shinyapps.io/odyssey/).
+Learn more about by visiting our site: [Odyssey](https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey).
