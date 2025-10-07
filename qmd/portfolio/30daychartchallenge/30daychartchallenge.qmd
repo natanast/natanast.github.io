@@ -1,15 +1,29 @@
 ---
 title: ""
 image: 30daychartchallenge.png
-description: " Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece."
+description: "A collection of data visualizations created for the #30DayChartChallenge, exploring different chart types, styles, and storytelling techniques in R."
 ---
 
 # 30DayChartChallenge
 
 ### About this project
 
+-   The **#30DayChartChallenge** is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.
+
+-   This project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.
+
 ### Who was involved
+
+This was an individual project, created as part of my personal exploration of data visualization and creative coding in R.
 
 ### Tools used
 
+-   **R** for data wrangling and visualization
+
+-   **ggplot2**, **ggtext**, and **patchwork** for building and styling plots
+
 ### Visit site
+
+🌐 **Explore the visualizations at the site:** [30DayChartChallenge](https://natanast.github.io/30daychartchallenge_page/)
+
+💻 **View the source code:** [GitHub](https://github.com/natanast/30DayChartChallenge)

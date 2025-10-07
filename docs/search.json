@@ -130,7 +130,7 @@
     "href": "qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
     "title": "30DayChartChallenge",
     "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\n\nWho was involved\n\n\nTools used\n\n\nVisit site"
+    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
   },
   {
     "objectID": "qmd/publications.html#publications",
