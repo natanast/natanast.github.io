@@ -102,7 +102,7 @@
     "href": "qmd/portfolio/immunovisual/immunovisual.html",
     "title": "Immunovisual",
     "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Immunovisual."
+    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
   },
   {
     "objectID": "qmd/portfolio/odyssey/odyssey.html",

@@ -24,4 +24,4 @@ The whole site is a `quarto` webpage. We mostly used `ggplot2` for the visualiza
 
 ### Visit site
 
-Learn more about by visiting our site: [Immunovisual](https://natanast.github.io/immunovisual/).
+🌐 Learn more about by visiting our site: [Immunovisual](https://natanast.github.io/immunovisual/).

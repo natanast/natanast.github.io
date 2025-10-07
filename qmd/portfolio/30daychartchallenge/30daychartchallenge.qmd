@@ -20,7 +20,7 @@ This was an individual project, created as part of my personal exploration of da
 
 -   **R** for data wrangling and visualization
 
--   **ggplot2**, **ggtext**, and **patchwork** for building and styling plots
+-   `ggplot2`, `ggtext`, and `patchwork` for building and styling plots
 
 ### Visit site
 
