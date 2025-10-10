@@ -2,23 +2,23 @@
 title: ""
 ---
 
-## [Anastasia (Natasa) Anastasiadou]{style="font-weight:500;"}
+## [Anastasia (**Natasa**) Anastasiadou]{style="font-weight:500;"}
 
 Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy!
 
-#### Bio {style="margin-top: -5px;"}
+#### **Bio** {style="margin-top: 10px;"}
 
-👩🏻‍💻 Bioinformatics Scientist (INAB \| CERTH)
+👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences \| CERTH)
 
 👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department \| DUTh)
 
 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department \| UTh)
 
-#### Current position {style="margin-top: -5px;"}
+#### **Current position** {style="margin-top: 25px;"}
 
 Bioinformatics Scientist in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of [Dr. Psomopoulos](https://scholar.google.com/citations?user=Fp0LAqsAAAAJ&hl=el&oi=sra), at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
-![](images/1712050337388.jpg){fig-align="center" width="490"}
+![](images/1712050337388.jpg){fig-align="center" width="400"}
 
 ::: {style="text-align: center; font-size: .75rem; margin-top: -25px;"}
 *Figure caption: Picture from a post on* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7180859584121561088?utm_source=share&utm_medium=member_desktop).
