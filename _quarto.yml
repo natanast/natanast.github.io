@@ -20,8 +20,8 @@ website:
         href: qmd/publications.qmd
       - text: Visual Portfolio
         href: qmd/visual_portfolio.qmd
-      - text: Photography
-        href: qmd/photography.qmd
+      # - text: Photography
+      #   href: qmd/photography.qmd
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub

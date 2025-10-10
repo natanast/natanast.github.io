@@ -40,6 +40,6 @@ title: ""
 
 ## [Theses]{style="font-weight:400;"}
 
--   A. Anastasiadou, “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.
+-   **A. Anastasiadou**, “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.
 
--   A. Anastasiadou, “Study of genetic variations in patients with haematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021.
+-   **A. Anastasiadou**, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021.
