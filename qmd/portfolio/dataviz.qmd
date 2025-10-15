@@ -12,5 +12,6 @@ listing:
   sort: "title" 
 ---
 
-## [Check out some of my Data Vizualization!]{style="font-weight:400;"}
+## [Data Visualization Projects]{style="font-weight:400;"}
 
+#### 

@@ -10,4 +10,4 @@ listing:
   sort: "title" 
 ---
 
-## [Check out some of my Software!]{style="font-weight:400;"}
+## [Software Development Project]{style="font-weight:400;"}
