@@ -2,7 +2,7 @@
   {
     "listing": "/qmd/visual_portfolio.html",
     "items": [
-      "/qmd/portfolio/data_viz.html",
+      "/qmd/portfolio/dataviz.html",
       "/qmd/portfolio/software.html"
     ]
   },
@@ -27,5 +27,13 @@
   {
     "listing": "/qmd/data_viz.html",
     "items": []
+  },
+  {
+    "listing": "/qmd/portfolio/dataviz.html",
+    "items": [
+      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
   }
 ]

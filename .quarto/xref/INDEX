@@ -97,5 +97,8 @@
   },
   "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.qmd": {
     "tidytuesdayapp.html": "6952ccf7"
+  },
+  "qmd/portfolio/dataviz.qmd": {
+    "dataviz.html": "1073f659"
   }
 }

@@ -1,4 +1,5 @@
 ---
+image: dataviz.png
 listing: 
   id: dataviz-listings
   contents: 
