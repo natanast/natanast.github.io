@@ -1,0 +1,12 @@
+---
+listing: 
+  id: software-listings
+  contents: 
+    - "/software/odyssey/*.qmd"
+  type: grid
+  grid-columns: 1  # 1 item per row
+  image-height: '25rem'  # Adjust image size
+  sort: "title" 
+---
+
+## [Check out some of my Software!]{style="font-weight:400;"}

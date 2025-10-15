@@ -43,5 +43,59 @@
   },
   "qmd/portfolio/30daychartchallenge/30daychartchallenge.qmd": {
     "30daychartchallenge.html": "a3f31850"
+  },
+  "qmd/portfolio/data_viz/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "6309b866"
+  },
+  "qmd/portfolio/data_viz/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "72ee084d"
+  },
+  "qmd/portfolio/data_viz/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "e7f4c451"
+  },
+  "qmd/portfolio/software_dev/odyssey/odyssey.qmd": {
+    "odyssey.html": "89d422f9"
+  },
+  "qmd/portfolio/Data_viz/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "520402f0"
+  },
+  "qmd/portfolio/Data_viz/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "e657c853"
+  },
+  "qmd/portfolio/data_viz.qmd": {
+    "data_viz.html": "8572bae2"
+  },
+  "qmd/portfolio/software/odyssey/odyssey.qmd": {
+    "odyssey.html": "a08f3509"
+  },
+  "qmd/portfolio/software.qmd": {
+    "software.html": "07740f15"
+  },
+  "qmd/data_viz/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "8240f010"
+  },
+  "qmd/data_viz/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "85ea9a56"
+  },
+  "qmd/data_viz/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "f3ce7482"
+  },
+  "qmd/software/odyssey/odyssey.qmd": {
+    "odyssey.html": "0fcfbf8d"
+  },
+  "qmd/data_viz.qmd": {
+    "data_viz.html": "c9b6a64c"
+  },
+  "qmd/portfolio/visual_portfolio.qmd": {
+    "visual_portfolio.html": "df845ff7"
+  },
+  "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "e10d4d35"
+  },
+  "qmd/portfolio/dataviz/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "e2620777"
+  },
+  "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "6952ccf7"
   }
 }

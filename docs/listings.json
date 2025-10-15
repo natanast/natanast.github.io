@@ -2,10 +2,30 @@
   {
     "listing": "/qmd/visual_portfolio.html",
     "items": [
-      "/qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
-      "/qmd/portfolio/immunovisual/immunovisual.html",
-      "/qmd/portfolio/odyssey/odyssey.html",
-      "/qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html"
+      "/qmd/portfolio/data_viz.html",
+      "/qmd/portfolio/software.html"
     ]
+  },
+  {
+    "listing": "/qmd/portfolio/data_viz.html",
+    "items": [
+      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/software.html",
+    "items": [
+      "/qmd/portfolio/software/odyssey/odyssey.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/visual_portfolio.html",
+    "items": []
+  },
+  {
+    "listing": "/qmd/data_viz.html",
+    "items": []
   }
 ]
