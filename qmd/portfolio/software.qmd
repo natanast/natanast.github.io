@@ -5,8 +5,8 @@ listing:
   contents: 
     - "/software/odyssey/*.qmd"
   type: grid
-  grid-columns: 1  # 1 item per row
-  image-height: '25rem'  # Adjust image size
+  grid-columns: 1  
+  image-height: '25rem'  
   sort: "title" 
 ---
 
