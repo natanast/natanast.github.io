@@ -5,7 +5,7 @@ listing:
     - "portfolio/*.qmd"
   type: grid
   grid-columns: 2  # 1 item per row
-  image-height: '20rem'  # Adjust image size
+  image-height: '15rem'  # Adjust image size
   sort: "title"
 ---
 

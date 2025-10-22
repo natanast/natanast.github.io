@@ -1,5 +1,5 @@
 ---
-image: dataviz.png
+image: plot.png
 listing: 
   id: dataviz-listings
   contents: 
@@ -7,8 +7,8 @@ listing:
     - "/dataviz/immunovisual/*.qmd"
     - "/dataviz/tidytuesdayapp/*.qmd"
   type: grid
-  grid-columns: 1  
-  image-height: '25rem'  
+  grid-columns: 2  
+  image-height: '15rem'  
   sort: "title" 
 ---
 

@@ -1,13 +1,13 @@
 ---
-image: software.png
+image: logo.png
 listing: 
   id: software-listings
   contents: 
     - "/software/odyssey/*.qmd"
     - "/software/euroleague/*.qmd"
   type: grid
-  grid-columns: 1  
-  image-height: '25rem'  
+  grid-columns: 2  
+  image-height: '15rem'  
   sort: "title" 
 ---
 
