@@ -271,5 +271,19 @@
     "title": "Immunovisual",
     "section": "",
     "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
+  },
+  {
+    "objectID": "qmd/portfolio/software/euroleugue/euroleugue.html",
+    "href": "qmd/portfolio/software/euroleugue/euroleugue.html",
+    "title": "Odyssey",
+    "section": "",
+    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
+  },
+  {
+    "objectID": "qmd/portfolio/software/euroleague/euroleugue.html",
+    "href": "qmd/portfolio/software/euroleague/euroleugue.html",
+    "title": "Euroleague dataset",
+    "section": "",
+    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site:"
   }
 ]

@@ -100,5 +100,14 @@
   },
   "qmd/portfolio/dataviz.qmd": {
     "dataviz.html": "1073f659"
+  },
+  "qmd/portfolio/software/euroleugue/euroleugue.qmd": {
+    "euroleugue.html": "dc206813"
+  },
+  "qmd/portfolio/software/euroleague/euroleugue.qmd": {
+    "euroleugue.html": "3cf6a123"
+  },
+  "docs/qmd/portfolio/software/euroleague/euroleugue.qmd": {
+    "euroleugue.html": "98fab499"
   }
 }

@@ -1,10 +1,10 @@
 ---
 title: ""
 image: logo.png
-description: " Odyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece."
+description: "Euroleague dataset."
 ---
 
-# Odyssey
+# Euroleague dataset
 
 ### About this project
 
@@ -16,12 +16,10 @@ description: " Odyssey is an R shiny application for the exploration of Molecula
 
 ### Who was involved
 
-This project was built by me and [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
-
 ### Tools used
 
 The entire site is a `Shiny` application. We mostly used `echarts4r` for the visualizations.
 
 ### Visit site
 
-Learn more about by visiting our site: [Odyssey](https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey).
+Learn more about by visiting our site:

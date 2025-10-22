@@ -4,6 +4,7 @@ listing:
   id: software-listings
   contents: 
     - "/software/odyssey/*.qmd"
+    - "/software/euroleague/*.qmd"
   type: grid
   grid-columns: 1  
   image-height: '25rem'  
