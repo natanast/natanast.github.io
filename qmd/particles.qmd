@@ -1,0 +1,18 @@
+---
+title: "Check out some of my public projects below"
+subtitle: "Visualizing immunology and bioinformatics projects"
+format:
+  html:
+    template-partials:
+      - title-block.html
+listing: 
+  id: portfolio-listings
+  contents: 
+    - "portfolio/*.qmd"
+  type: grid
+  grid-columns: 2  # 1 item per row
+  image-height: '15rem'  # Adjust image size
+  sort: "title"
+---
+
+## [Check out some of my public projects below!]{style="font-weight:400;"}

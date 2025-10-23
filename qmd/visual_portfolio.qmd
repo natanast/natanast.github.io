@@ -9,4 +9,4 @@ listing:
   sort: "title"
 ---
 
-## [Check out some of my public projects below!]{style="font-weight:400;"}
+## [Check out some of my public projects below]{style="font-weight:400;"}
