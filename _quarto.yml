@@ -14,7 +14,7 @@ website:
     background: "#cfe1ed"
     right: 
       - text: Home
-        href: index.qmd
+        href: qmd/index.qmd
       - text: About
         href: qmd/about.qmd
       - text: Publications

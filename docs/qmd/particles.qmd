@@ -1,18 +1,24 @@
 ---
-title: "Check out some of my public projects below"
-subtitle: "Visualizing immunology and bioinformatics projects"
+title: "Anastasia (Natasa) Anastasiadou"
+header-text: Anastasia (Natasa) Anastasiadou
 format:
   html:
     template-partials:
       - title-block.html
-listing: 
-  id: portfolio-listings
-  contents: 
-    - "portfolio/*.qmd"
-  type: grid
-  grid-columns: 2  # 1 item per row
-  image-height: '15rem'  # Adjust image size
-  sort: "title"
 ---
 
-<!-- ## [Check out some of my public projects below!]{style="font-weight:400;"} -->
+## 
+
+Hello! My name is Natasa and this is my personal page! You're welcome to explore and enjoy!
+
+#### **Bio** {style="margin-top: 10px;"}
+
+👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences \| CERTH)
+
+👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department \| DUTh)
+
+🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department \| UTh)
+
+#### **Current position** {style="margin-top: 25px;"}
+
+Bioinformatics Scientist in [Bioinformatics lab](https://biodataanalysisgroup.github.io/), under the supervision of [Dr. Psomopoulos](https://scholar.google.com/citations?user=Fp0LAqsAAAAJ&hl=el&oi=sra), at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).

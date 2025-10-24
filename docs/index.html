@@ -255,6 +255,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./qmd/visual_portfolio.html"> 
 <span class="menu-text">Visual Portfolio</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./qmd/particles.html"> 
+<span class="menu-text">Particles</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/natanast"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
@@ -282,11 +286,48 @@ ul.task-list li input[type="checkbox"] {
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
+<style>
+  #particles-js {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 800px;
+    height: 140px;
+  }
+
+  .title-block-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+</style>
+
+<header id="title-block-header" style="position: relative">
+  <!-- This is the div in which the particles will be included -->
+  <div id="particles-js"></div>
+
+  <!-- Actual content on top of the particles-->
+  <div class="title-block-content">
+    <h3 class="anchored">Anastasia (Natasa) Anastasiadou</h3>
+  </div>
+
+  <!-- Particle.js script loaded from a CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+
+  <!-- use the particle js library with our own config (json file). -->
+  <script>
+      particlesJS.load('particles-js', 'particles.json', function() {
+    console.log('Particles.js config loaded');
+  });
+  </script>
+</header>
 
 
-
-<section id="anastasia-natasa-anastasiadou" class="level2">
-<h2 class="anchored" data-anchor-id="anastasia-natasa-anastasiadou"><span style="font-weight:500;">Anastasia (<strong>Natasa</strong>) Anastasiadou</span></h2>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 <p>Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!</p>
 <section id="bio" class="level4" style="margin-top: 10px;">
 <h4 style="margin-top: 10px;" class="anchored" data-anchor-id="bio"><strong>Bio</strong></h4>

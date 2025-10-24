@@ -145,5 +145,11 @@
   },
   "docs/qmd/visual_portfolio.qmd": {
     "visual_portfolio.html": "f7b14b0d"
+  },
+  "qmd/index.qmd": {
+    "index.html": "4bab4c9b"
+  },
+  "docs/qmd/index.qmd": {
+    "index.html": "11e4bc2f"
   }
 }
