@@ -109,5 +109,41 @@
   },
   "docs/qmd/portfolio/software/euroleague/euroleugue.qmd": {
     "euroleugue.html": "98fab499"
+  },
+  "qmd/particles.qmd": {
+    "particles.html": "de89ed5b"
+  },
+  "docs/qmd/about.qmd": {
+    "about.html": "29fd3853"
+  },
+  "docs/qmd/particles.qmd": {
+    "particles.html": "4dcdacd3"
+  },
+  "docs/qmd/photography.qmd": {
+    "photography.html": "b7b4c63b"
+  },
+  "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "62dd2ee2"
+  },
+  "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "703ab8b2"
+  },
+  "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "8adea4c4"
+  },
+  "docs/qmd/portfolio/dataviz.qmd": {
+    "dataviz.html": "98503074"
+  },
+  "docs/qmd/portfolio/software/odyssey/odyssey.qmd": {
+    "odyssey.html": "9e0bf58a"
+  },
+  "docs/qmd/portfolio/software.qmd": {
+    "software.html": "dd75573b"
+  },
+  "docs/qmd/publications.qmd": {
+    "publications.html": "5df1e320"
+  },
+  "docs/qmd/visual_portfolio.qmd": {
+    "visual_portfolio.html": "f7b14b0d"
   }
 }

@@ -1,0 +1,14 @@
+---
+image: logo.png
+listing: 
+  id: software-listings
+  contents: 
+    - "/software/odyssey/*.qmd"
+    - "/software/euroleague/*.qmd"
+  type: grid
+  grid-columns: 2  
+  image-height: '15rem'  
+  sort: "title" 
+---
+
+## [Software Development Project]{style="font-weight:400;"}

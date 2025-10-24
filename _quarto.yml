@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - files/
+    - qmd/
 
 website:
   search: false
@@ -20,6 +21,8 @@ website:
         href: qmd/publications.qmd
       - text: Visual Portfolio
         href: qmd/visual_portfolio.qmd
+      # - text: Particles
+      #   href: qmd/particles.qmd
       # - text: Photography
       #   href: qmd/photography.qmd
       - icon: github
@@ -38,6 +41,8 @@ website:
 
 format:
   html:
+    partials:
+      title-block: qmd/title-block.html
     css: sass/style.css
     toc: false
     minimal: false

@@ -1,6 +1,6 @@
 ---
 title: ""
-image: logo_nobg.png
+image: logo.png
 description: "Euroleague dataset."
 ---
 

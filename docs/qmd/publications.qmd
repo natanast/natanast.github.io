@@ -1,0 +1,45 @@
+---
+title: ""
+---
+
+## [Publications]{style="font-weight:400;"}
+
+#### 2025
+
+-   F. Psomopoulos, C. O’Cathail, **N. Anastasiadou**, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: [10.12688/openreseurope.20934.1](https://doi.org/10.12688/openreseurope.20934.1).
+
+## [Conferences and Announcements]{style="font-weight:400;"}
+
+### [Posters]{style="font-weight:400;"}
+
+#### 2025
+
+-   A. Iatrou, M. Gerousi, N. Pechlivanis, **A. Anastasiadou**, R. Sandaltzopoulos, I. Sakellari, N. Stavrogianni, F. Psomopoulos, A. Agathangelidis, A. Chatzidimitriou, K. Stamatopoulos, “Evidence for a Pre-Switched Population and Unmutated Immunoglobulin Receptors in IgG-Expressing CLL Stereotyped Subset #4, 30th European Hematology Association Congress (EHA)”, June 2025, PF564.
+
+-   A.-Z. Kouroutzidou, S. Laidou, **A. Anastasiadou**, N. Pechlivanis, M. Fitopoulou, M. Gerousi, P. Rock, C. S. Zent, C. C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, “Genomic Profiling Identifies Unique Molecular Subgroups in Splenic Small B-Cell Lymphomas, 30th European Hematology Association Congress (EHA)”, June 2025, PF1021.
+
+-   M. Gerousi, M. Fitopoulou, N. Pechlivanis, **A. Anastasiadou**, P. Rock, G. Karakatsoulis, M. Smaropoulou, P. Talimtzi, C. C. Chu, C. Zent, R. Burack, E. Theodosiou, F. Psomopoulos, A. Chatzidimitriou, K. Stamatopoulos, “Molecular and Cellular Responses to External Triggering in Primary Splenic Small B-Cell Lymphomas: A Transcriptomic and Bioenergetic Perspective, 30th European Hematology Association Congress (EHA)”, June 2025, PF1011.
+
+#### 2024
+
+-   N. Pechlivanis, **A. Anastasiadou**, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186452](https://doi.org/10.5281/zenodo.14186453).
+
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: [10.5281/ZENODO.14186509](https://doi.org/10.5281/ZENODO.14186509).
+
+-   M. Gerousi, M. Fitopoulou, M. Galanou, P. Rock, G. Karakatsoulis, **A. Anastasiadou**, M. Karipidou, A. Iatrou, E. Karamanli, N. Vastarouchas, P. Ghia, C. C. Chu, C. S. Zent, R. Burack, A. Chatzidimitriou, K. Stamatopoulos, “Distinct Signaling Profiles in Primary Splenic Small B-Cell Lymphomas,” *Blood*, vol. 144, Supplement 1, p. 3002, 2024, doi: [10.1182/blood-2024-207057](https://doi.org/10.1182/blood-2024-207057).
+
+-   G. Gkoliou, N. Pechlivanis, S. Chatzileontiadou, C. Frouzaki, G. Karakatsoulis, **A. Anastasiadou**, E. Vlachonikola, M. Gerousi, F. Psomopoulos, M. Papaioannou, K. Chlichlia, K. Stamatopoulos, E. Hatjiharissi, A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
+
+-   S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: [10.5281/zenodo.8432060](https://doi.org/10.5281/zenodo.8432060).
+
+## [Other]{style="font-weight:400;"}
+
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: [10.7490/f1000research.1119793.1](https://doi.org/10.7490/f1000research.1119793.1).
+
+-   S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: [10.1101/2024.03.07.582313](https://doi.org/10.1101/2024.03.07.582313).
+
+## [Theses]{style="font-weight:400;"}
+
+-   **A. Anastasiadou**, “Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023. <br> [Master’s thesis]{.tag}
+
+-   **A. Anastasiadou**, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021.<br> [Bachelor’s thesis]{.tag}
