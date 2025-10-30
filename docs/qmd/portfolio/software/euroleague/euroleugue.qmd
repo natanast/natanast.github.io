@@ -22,4 +22,4 @@ The entire site is a `Shiny` application. We mostly used `echarts4r` for the vis
 
 ### Visit site
 
-Learn more about by visiting our site:
+🌐 Learn more about by visiting our site: <https://natanast.github.io/EuroleagueBasketball/>

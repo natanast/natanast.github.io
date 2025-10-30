@@ -256,7 +256,7 @@
     "href": "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
     "title": "TidyTuesday Shiny App",
     "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\nLearn more about by visiting the app: TidyTuesday_app."
+    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
   },
   {
     "objectID": "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",

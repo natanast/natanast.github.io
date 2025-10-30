@@ -20,4 +20,4 @@ The entire site is a `Shiny` application.
 
 ### Visit site
 
-Learn more about by visiting the app: [TidyTuesday_app](https://nanastas.shinyapps.io/tidytuesday_shinyapp/).
+🌐 Learn more about by visiting the app: [TidyTuesday_app](https://nanastas.shinyapps.io/tidytuesday_shinyapp/).
