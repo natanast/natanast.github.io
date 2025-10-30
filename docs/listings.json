@@ -7,27 +7,11 @@
     ]
   },
   {
-    "listing": "/qmd/portfolio/data_viz.html",
-    "items": [
-      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
-      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
-    ]
-  },
-  {
     "listing": "/qmd/portfolio/software.html",
     "items": [
       "/qmd/portfolio/software/euroleague/euroleugue.html",
       "/qmd/portfolio/software/odyssey/odyssey.html"
     ]
-  },
-  {
-    "listing": "/qmd/portfolio/visual_portfolio.html",
-    "items": []
-  },
-  {
-    "listing": "/qmd/data_viz.html",
-    "items": []
   },
   {
     "listing": "/qmd/portfolio/dataviz.html",
@@ -57,20 +41,6 @@
       "/docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
       "/docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
       "/docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
-    ]
-  },
-  {
-    "listing": "/qmd/particles.html",
-    "items": [
-      "/qmd/portfolio/dataviz.html",
-      "/qmd/portfolio/software.html"
-    ]
-  },
-  {
-    "listing": "/docs/qmd/particles.html",
-    "items": [
-      "/docs/qmd/portfolio/dataviz.html",
-      "/docs/qmd/portfolio/software.html"
     ]
   }
 ]

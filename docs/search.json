@@ -1,24 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "qmd/index.html#section",
+    "href": "qmd/index.html#section",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\n\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\n\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
+    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
   },
   {
-    "objectID": "index.html#anastasia-natasa-anastasiadou",
-    "href": "index.html#anastasia-natasa-anastasiadou",
-    "title": "Anastasia (Natasa) Anastasiadou",
+    "objectID": "qmd/portfolio/software/euroleague/euroleugue.html",
+    "href": "qmd/portfolio/software/euroleague/euroleugue.html",
+    "title": "Euroleague dataset",
     "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\n\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\n\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
+    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
   },
   {
-    "objectID": "qmd/publications.html",
-    "href": "qmd/publications.html",
+    "objectID": "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "href": "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "title": "TidyTuesday Shiny App",
+    "section": "",
+    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
+  },
+  {
+    "objectID": "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+    "href": "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+    "title": "30DayChartChallenge",
+    "section": "",
+    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
+  },
+  {
+    "objectID": "qmd/particles.html#section",
+    "href": "qmd/particles.html#section",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
+    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
   },
   {
     "objectID": "qmd/about.html",
@@ -28,27 +42,6 @@
     "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
   },
   {
-    "objectID": "qmd/about.html#education",
-    "href": "qmd/about.html#education",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "2021-2023, M.Sc. in Translational Research in Biomedicine, Molecular Biology & Genetics Department, Democritus University of Thrace, Alexandroupoli, Greece\nThesis: “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia”.\n2016-2021, B.Sc. in Biochemistry & Biotechnology, Biochemistry & Biotechnology Department, University of Thessaly, Larisa, Greece\nThesis: “Study of genetic variations on patients with hematological malignancies”."
-  },
-  {
-    "objectID": "qmd/about.html#work-experience",
-    "href": "qmd/about.html#work-experience",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "11/2023 - present, Research Assistant, Bioinformatics Lab, (INAB | CERTH).\n10/2021 - 10/2023, Master Student, Immunogenetics Lab, (INAB | CERTH).\n03/2020 - 09/2021, Undergraduate Student, Immunogenetics Lab, (INAB | CERTH).\n07/2019 - 08/2019, Internship, Immunogenetics Lab, (INAB | CERTH)."
-  },
-  {
-    "objectID": "qmd/about.html#academic-services",
-    "href": "qmd/about.html#academic-services",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Participation in the organising committee of:\n\nML4NGP - 2nd ML4NGP MEETING on Machine Learning and Non-globular proteins, Thessaloniki, Greece, 14-17/05/2024.\nEOSC-EVERSE Kick-off meeting, Thessaloniki, Greece, 11-15/03/2024.\n17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23), Thessaloniki, Greece, 10-12/10/23."
-  },
-  {
     "objectID": "qmd/photography.html",
     "href": "qmd/photography.html",
     "title": "Anastasia (Natasa) Anastasiadou",
@@ -56,81 +49,25 @@
     "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
   },
   {
-    "objectID": "qmd/visual_portfolio.html",
-    "href": "qmd/visual_portfolio.html",
-    "title": "Welcome to my portfolio!",
-    "section": "",
-    "text": "Explore my projects in bioinformatics and immunology 🧬\n    Check out my GitHub and LinkedIn"
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual.html",
-    "href": "qmd/portfolio/immunovisual.html",
-    "title": "Immunovisual",
-    "section": "",
-    "text": "Immunovisual\n\nAbout this project\nThis project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual\n\n\nWho was involved\nThis project was built by me and the incredible Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\nLearn more about some of the key tools from this project by clicking on the hex."
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual.html#about-this-project",
-    "href": "qmd/portfolio/immunovisual.html#about-this-project",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "This project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual"
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual.html#who-was-involved",
-    "href": "qmd/portfolio/immunovisual.html#who-was-involved",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Who was involved",
-    "text": "Who was involved\nThis project was built by me and the incredible Will Bonnell and Shalima Zalsha, with oversight and design feedback by Nola du Toit.\nWill made the really cool ‘game board’ on the home page and did a lot of the site styling, including the characteristics selector on the ‘Trajectories’ page, which was one of my first intros to shinyjs. Shalima lead the development of the beautiful plotly-based graphics on the ‘Certificate Attainment’ page.\n\nMy role\nWill and I worked the parallel sets diagrams together, and I did a lot of the site styling and layout. This was one of my first projects where I had to start learning CSS and how to style a Shiny site; I learned a ton throughout the process."
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual.html#tools-used",
-    "href": "qmd/portfolio/immunovisual.html#tools-used",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Tools used",
-    "text": "Tools used\nThe whole site is a shiny application. We used r2d3 for the D3-based parallel sets diagrams.\nLearn more about some of the key tools from this project by clicking on the hex."
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual.html#immunovisual",
-    "href": "qmd/portfolio/immunovisual.html#immunovisual",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "This project is about a collection of charts made with the R programming language, focusing on immunogenetics analyses. Different charts types are being organized into multiple sections, each accompanied by its reproducible code. The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\nImmunovisual\n\n\n\nThis project was built by me and the incredible Will Bonnell and Shalima Zalsha, with oversight and design feedback by Nola du Toit.\nWill made the really cool ‘game board’ on the home page and did a lot of the site styling, including the characteristics selector on the ‘Trajectories’ page, which was one of my first intros to shinyjs. Shalima lead the development of the beautiful plotly-based graphics on the ‘Certificate Attainment’ page.\n\n\nWill and I worked the parallel sets diagrams together, and I did a lot of the site styling and layout. This was one of my first projects where I had to start learning CSS and how to style a Shiny site; I learned a ton throughout the process."
-  },
-  {
-    "objectID": "qmd/portfolio/immunovisual/immunovisual.html",
-    "href": "qmd/portfolio/immunovisual/immunovisual.html",
+    "objectID": "qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+    "href": "qmd/portfolio/dataviz/immunovisual/immunovisual.html",
     "title": "Immunovisual",
     "section": "",
     "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
   },
   {
-    "objectID": "qmd/portfolio/odyssey/odyssey.html",
-    "href": "qmd/portfolio/odyssey/odyssey.html",
+    "objectID": "qmd/portfolio/software/odyssey/odyssey.html",
+    "href": "qmd/portfolio/software/odyssey/odyssey.html",
     "title": "Odyssey",
     "section": "",
     "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
   },
   {
-    "objectID": "qmd/about.html#about",
-    "href": "qmd/about.html#about",
+    "objectID": "qmd/publications.html",
+    "href": "qmd/publications.html",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
-  },
-  {
-    "objectID": "qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
-    "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\nLearn more about by visiting the app: TidyTuesday_app."
-  },
-  {
-    "objectID": "qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
-    "href": "qmd/portfolio/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
+    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
   },
   {
     "objectID": "qmd/publications.html#publications",
@@ -161,139 +98,6 @@
     "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Publications",
-    "text": "Publications\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
-  },
-  {
-    "objectID": "qmd/visual_portfolio.html#check-out-some-of-my-public-projects-below",
-    "href": "qmd/visual_portfolio.html#check-out-some-of-my-public-projects-below",
-    "title": "Check out some of my public projects below",
-    "section": "Check out some of my public projects below",
-    "text": "Check out some of my public projects below"
-  },
-  {
-    "objectID": "qmd/portfolio/data_viz/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "qmd/portfolio/data_viz/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
-    "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\nLearn more about by visiting the app: TidyTuesday_app."
-  },
-  {
-    "objectID": "qmd/portfolio/data_viz/30daychartchallenge/30daychartchallenge.html",
-    "href": "qmd/portfolio/data_viz/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/portfolio/data_viz/immunovisual/immunovisual.html",
-    "href": "qmd/portfolio/data_viz/immunovisual/immunovisual.html",
-    "title": "Immunovisual",
-    "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
-  },
-  {
-    "objectID": "qmd/portfolio/software_dev/odyssey/odyssey.html",
-    "href": "qmd/portfolio/software_dev/odyssey/odyssey.html",
-    "title": "Odyssey",
-    "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
-  },
-  {
-    "objectID": "qmd/portfolio/Data_viz/30daychartchallenge.html",
-    "href": "qmd/portfolio/Data_viz/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/portfolio/Data_viz/30daychartchallenge/30daychartchallenge.html",
-    "href": "qmd/portfolio/Data_viz/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/portfolio/software/odyssey/odyssey.html",
-    "href": "qmd/portfolio/software/odyssey/odyssey.html",
-    "title": "Odyssey",
-    "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
-  },
-  {
-    "objectID": "qmd/data_viz/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "qmd/data_viz/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
-    "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\nLearn more about by visiting the app: TidyTuesday_app."
-  },
-  {
-    "objectID": "qmd/data_viz/30daychartchallenge/30daychartchallenge.html",
-    "href": "qmd/data_viz/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/data_viz/immunovisual/immunovisual.html",
-    "href": "qmd/data_viz/immunovisual/immunovisual.html",
-    "title": "Immunovisual",
-    "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
-  },
-  {
-    "objectID": "qmd/software/odyssey/odyssey.html",
-    "href": "qmd/software/odyssey/odyssey.html",
-    "title": "Odyssey",
-    "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
-  },
-  {
-    "objectID": "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
-    "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
-  },
-  {
-    "objectID": "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
-    "href": "qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "href": "qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "title": "Immunovisual",
-    "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
-  },
-  {
-    "objectID": "qmd/portfolio/software/euroleugue/euroleugue.html",
-    "href": "qmd/portfolio/software/euroleugue/euroleugue.html",
-    "title": "Odyssey",
-    "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
-  },
-  {
-    "objectID": "qmd/portfolio/software/euroleague/euroleugue.html",
-    "href": "qmd/portfolio/software/euroleague/euroleugue.html",
-    "title": "Euroleague dataset",
-    "section": "",
-    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
-  },
-  {
-    "objectID": "qmd/particles.html",
-    "href": "qmd/particles.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Anastasia (Natasa) Anastasiadou\n  \n\n  \n  \n\n  \n  \n\n\n\nHello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
     "objectID": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
     "href": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
     "title": "Euroleague dataset",
@@ -301,39 +105,11 @@
     "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
   },
   {
-    "objectID": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "href": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "title": "Immunovisual",
+    "objectID": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "href": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "title": "TidyTuesday Shiny App",
     "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
-  },
-  {
-    "objectID": "docs/qmd/photography.html",
-    "href": "docs/qmd/photography.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
-  },
-  {
-    "objectID": "docs/qmd/about.html",
-    "href": "docs/qmd/about.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
-  },
-  {
-    "objectID": "docs/qmd/about.html#about",
-    "href": "docs/qmd/about.html#about",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "About",
-    "text": "About\nI am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
-  },
-  {
-    "objectID": "docs/qmd/particles.html",
-    "href": "docs/qmd/particles.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Check out some of my public projects below!  \n  \n\n  \n  \n\n  \n  \n\n\n\nHello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
+    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
   },
   {
     "objectID": "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
@@ -343,11 +119,39 @@
     "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
   },
   {
-    "objectID": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
+    "objectID": "docs/qmd/particles.html#section",
+    "href": "docs/qmd/particles.html#section",
+    "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
+    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
+  },
+  {
+    "objectID": "docs/qmd/about.html",
+    "href": "docs/qmd/about.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
+  },
+  {
+    "objectID": "docs/qmd/index.html#section",
+    "href": "docs/qmd/index.html#section",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
+  },
+  {
+    "objectID": "docs/qmd/photography.html",
+    "href": "docs/qmd/photography.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
+  },
+  {
+    "objectID": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+    "href": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+    "title": "Immunovisual",
+    "section": "",
+    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
   },
   {
     "objectID": "docs/qmd/portfolio/software/odyssey/odyssey.html",
@@ -390,89 +194,5 @@
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "Theses",
     "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"
-  },
-  {
-    "objectID": "qmd/particles.html#check-out-some-of-my-public-projects-below",
-    "href": "qmd/particles.html#check-out-some-of-my-public-projects-below",
-    "title": "Check out some of my public projects below",
-    "section": "Check out some of my public projects below!",
-    "text": "Check out some of my public projects below!"
-  },
-  {
-    "objectID": "docs/qmd/visual_portfolio.html",
-    "href": "docs/qmd/visual_portfolio.html",
-    "title": "Check out some of my public projects below",
-    "section": "",
-    "text": "Visualizing immunology and bioinformatics projects"
-  },
-  {
-    "objectID": "docs/qmd/visual_portfolio.html#check-out-some-of-my-public-projects-below",
-    "href": "docs/qmd/visual_portfolio.html#check-out-some-of-my-public-projects-below",
-    "title": "Check out some of my public projects below",
-    "section": "Check out some of my public projects below!",
-    "text": "Check out some of my public projects below!"
-  },
-  {
-    "objectID": "docs/qmd/particles.html#check-out-some-of-my-public-projects-below",
-    "href": "docs/qmd/particles.html#check-out-some-of-my-public-projects-below",
-    "title": "Check out some of my public projects below",
-    "section": "Check out some of my public projects below!",
-    "text": "Check out some of my public projects below!"
-  },
-  {
-    "objectID": "qmd/visual_portfolio.html#anastasia-natasa-anastasiadou",
-    "href": "qmd/visual_portfolio.html#anastasia-natasa-anastasiadou",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Anastasia (Natasa) Anastasiadou",
-    "text": "Anastasia (Natasa) Anastasiadou\nHello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
-  },
-  {
-    "objectID": "qmd/particles.html#anastasia-natasa-anastasiadou",
-    "href": "qmd/particles.html#anastasia-natasa-anastasiadou",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Anastasia (Natasa) Anastasiadou",
-    "text": "Anastasia (Natasa) Anastasiadou\nHello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
-    "objectID": "docs/qmd/particles.html#anastasia-natasa-anastasiadou",
-    "href": "docs/qmd/particles.html#anastasia-natasa-anastasiadou",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Anastasia (Natasa) Anastasiadou",
-    "text": "Anastasia (Natasa) Anastasiadou\nHello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
-    "objectID": "qmd/particles.html#section",
-    "href": "qmd/particles.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
-    "objectID": "docs/qmd/particles.html#section",
-    "href": "docs/qmd/particles.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
-  },
-  {
-    "objectID": "qmd/index.html#section",
-    "href": "qmd/index.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
-  },
-  {
-    "objectID": "docs/qmd/index.html#section",
-    "href": "docs/qmd/index.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
   }
 ]
