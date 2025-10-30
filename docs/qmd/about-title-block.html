@@ -1,38 +1,40 @@
 <style>
   #particles-js {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: 100%;
+    height: 150px; /* adjust as needed */
+    z-index: 0;
   }
 
   .title-block-content {
+    position: relative;
+    z-index: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    height: 150px; /* same as particles height */
+    margin: 0;
+  }
+
+  .title-block-content h1 {
+    margin: 0;
   }
 </style>
 
 <header id="title-block-header" style="position: relative">
-  <!-- This is the div in which the particles will be included -->
   <div id="particles-js"></div>
 
-  <!-- Actual content on top of the particles-->
   <div class="title-block-content">
-    <h3>$header-text$</h3>
+    <h1>$header-text$</h1>
   </div>
 
-  <!-- Particle.js script loaded from a CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-
-  <!-- use the particle js library with our own config (json file). -->
   <script>
-      particlesJS.load('particles-js', 'particles.json', function() {
-    console.log('Particles.js config loaded');
-  });
+    particlesJS.load('particles-js', 'particles.json', function() {
+      console.log('Particles loaded for About page');
+    });
   </script>
 </header>
