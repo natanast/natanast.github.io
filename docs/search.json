@@ -284,7 +284,7 @@
     "href": "qmd/portfolio/software/euroleague/euroleugue.html",
     "title": "Euroleague dataset",
     "section": "",
-    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site:"
+    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
   },
   {
     "objectID": "qmd/particles.html",
@@ -298,7 +298,7 @@
     "href": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
     "title": "Euroleague dataset",
     "section": "",
-    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site:"
+    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
   },
   {
     "objectID": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
@@ -347,7 +347,7 @@
     "href": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
     "title": "TidyTuesday Shiny App",
     "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\nLearn more about by visiting the app: TidyTuesday_app."
+    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
   },
   {
     "objectID": "docs/qmd/portfolio/software/odyssey/odyssey.html",
