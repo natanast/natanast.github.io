@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "qmd/index.html#section",
-    "href": "qmd/index.html#section",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
     "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
@@ -26,13 +26,6 @@
     "title": "30DayChartChallenge",
     "section": "",
     "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "qmd/particles.html#section",
-    "href": "qmd/particles.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
   },
   {
     "objectID": "qmd/about.html",
@@ -93,104 +86,6 @@
   {
     "objectID": "qmd/publications.html#theses",
     "href": "qmd/publications.html#theses",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Theses",
-    "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"
-  },
-  {
-    "objectID": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
-    "href": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
-    "title": "Euroleague dataset",
-    "section": "",
-    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
-  },
-  {
-    "objectID": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "href": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
-    "title": "TidyTuesday Shiny App",
-    "section": "",
-    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
-  },
-  {
-    "objectID": "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
-    "href": "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
-    "title": "30DayChartChallenge",
-    "section": "",
-    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
-  },
-  {
-    "objectID": "docs/qmd/particles.html#section",
-    "href": "docs/qmd/particles.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH)."
-  },
-  {
-    "objectID": "docs/qmd/about.html",
-    "href": "docs/qmd/about.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
-  },
-  {
-    "objectID": "docs/qmd/index.html#section",
-    "href": "docs/qmd/index.html#section",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Hello! My name is Natasa and this is my personal page! You’re welcome to explore and enjoy!\n\nBio\n👩🏻‍💻 Bioinformatics Scientist - Computational Biologist (Institute of Applied Biosciences | CERTH)\n👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology & Genetics Department | DUTh)\n🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry & Biotechnology Department | UTh)\n\n\nCurrent position\nBioinformatics Scientist in Bioinformatics lab, under the supervision of Dr. Psomopoulos, at the Institute of Applied Biosciences (INAB), situated within the Centre for Research & Technology, Hellas (CERTH).\n\n\n\n\n\n\nFigure caption: Picture from a post on LinkedIn."
-  },
-  {
-    "objectID": "docs/qmd/photography.html",
-    "href": "docs/qmd/photography.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
-  },
-  {
-    "objectID": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "href": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
-    "title": "Immunovisual",
-    "section": "",
-    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
-  },
-  {
-    "objectID": "docs/qmd/portfolio/software/odyssey/odyssey.html",
-    "href": "docs/qmd/portfolio/software/odyssey/odyssey.html",
-    "title": "Odyssey",
-    "section": "",
-    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
-  },
-  {
-    "objectID": "docs/qmd/publications.html",
-    "href": "docs/qmd/publications.html",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
-  },
-  {
-    "objectID": "docs/qmd/publications.html#publications",
-    "href": "docs/qmd/publications.html#publications",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "",
-    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
-  },
-  {
-    "objectID": "docs/qmd/publications.html#conferences-and-announcements",
-    "href": "docs/qmd/publications.html#conferences-and-announcements",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Conferences and Announcements",
-    "text": "Conferences and Announcements\n\nPosters\n\n2025\n\nA. Iatrou, M. Gerousi, N. Pechlivanis, A. Anastasiadou, R. Sandaltzopoulos, I. Sakellari, N. Stavrogianni, F. Psomopoulos, A. Agathangelidis, A. Chatzidimitriou, K. Stamatopoulos, “Evidence for a Pre-Switched Population and Unmutated Immunoglobulin Receptors in IgG-Expressing CLL Stereotyped Subset #4, 30th European Hematology Association Congress (EHA)”, June 2025, PF564.\nA.-Z. Kouroutzidou, S. Laidou, A. Anastasiadou, N. Pechlivanis, M. Fitopoulou, M. Gerousi, P. Rock, C. S. Zent, C. C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, “Genomic Profiling Identifies Unique Molecular Subgroups in Splenic Small B-Cell Lymphomas, 30th European Hematology Association Congress (EHA)”, June 2025, PF1021.\nM. Gerousi, M. Fitopoulou, N. Pechlivanis, A. Anastasiadou, P. Rock, G. Karakatsoulis, M. Smaropoulou, P. Talimtzi, C. C. Chu, C. Zent, R. Burack, E. Theodosiou, F. Psomopoulos, A. Chatzidimitriou, K. Stamatopoulos, “Molecular and Cellular Responses to External Triggering in Primary Splenic Small B-Cell Lymphomas: A Transcriptomic and Bioenergetic Perspective, 30th European Hematology Association Congress (EHA)”, June 2025, PF1011.\n\n\n\n2024\n\nN. Pechlivanis, A. Anastasiadou, A. Papageorgiou, E. Pafilis, and F. Psomopoulos, “Odyssey: an Interactive R Shiny App Approach to explore Molecular Biodiversity in Greece, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186452.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers, 23rd European Conference on Computational Biology (ECCB)” Sep. 2024, doi: 10.5281/ZENODO.14186509.\nM. Gerousi, M. Fitopoulou, M. Galanou, P. Rock, G. Karakatsoulis, A. Anastasiadou, M. Karipidou, A. Iatrou, E. Karamanli, N. Vastarouchas, P. Ghia, C. C. Chu, C. S. Zent, R. Burack, A. Chatzidimitriou, K. Stamatopoulos, “Distinct Signaling Profiles in Primary Splenic Small B-Cell Lymphomas,” Blood, vol. 144, Supplement 1, p. 3002, 2024, doi: 10.1182/blood-2024-207057.\nG. Gkoliou, N. Pechlivanis, S. Chatzileontiadou, C. Frouzaki, G. Karakatsoulis, A. Anastasiadou, E. Vlachonikola, M. Gerousi, F. Psomopoulos, M. Papaioannou, K. Chlichlia, K. Stamatopoulos, E. Hatjiharissi, A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.\nS.-C. Fragkouli, N. Pechlivanis, A. Orfanou, A. Anastasiadou, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: 10.5281/zenodo.8432060."
-  },
-  {
-    "objectID": "docs/qmd/publications.html#other",
-    "href": "docs/qmd/publications.html#other",
-    "title": "Anastasia (Natasa) Anastasiadou",
-    "section": "Other",
-    "text": "Other\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
-  },
-  {
-    "objectID": "docs/qmd/publications.html#theses",
-    "href": "docs/qmd/publications.html#theses",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "Theses",
     "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"

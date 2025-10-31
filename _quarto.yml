@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
+    - particles.json
     - files/
     - qmd/
 
@@ -14,7 +15,7 @@ website:
     background: "#cfe1ed"
     right: 
       - text: Home
-        href: qmd/index.qmd
+        href: index.qmd
       - text: About
         href: qmd/about.qmd
       - text: Publications
