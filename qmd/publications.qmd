@@ -14,6 +14,8 @@ title: ""
 
 #### 2025
 
+-   A.-Z. Kouroutzidou, **A. Anastasiadou**, N. Pechlivanis, M. Gerousi, M. Fitopoulou, P. Rock, C. Zent, C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, S. Laidou, “Dissecting the biology of hairy cell leukemia variant: Insights from whole exome and RNA sequencing”, 67th American Society of Hematology Annual Meeting (ASH), Dec 2025, abs25-7460.
+
 -   A. Iatrou, M. Gerousi, N. Pechlivanis, **A. Anastasiadou**, R. Sandaltzopoulos, I. Sakellari, N. Stavrogianni, F. Psomopoulos, A. Agathangelidis, A. Chatzidimitriou, K. Stamatopoulos, “Evidence for a Pre-Switched Population and Unmutated Immunoglobulin Receptors in IgG-Expressing CLL Stereotyped Subset #4, 30th European Hematology Association Congress (EHA)”, June 2025, PF564.
 
 -   A.-Z. Kouroutzidou, S. Laidou, **A. Anastasiadou**, N. Pechlivanis, M. Fitopoulou, M. Gerousi, P. Rock, C. S. Zent, C. C. Chu, F. Psomopoulos, A. Chatzidimitriou, R. Burack, K. Stamatopoulos, “Genomic Profiling Identifies Unique Molecular Subgroups in Splenic Small B-Cell Lymphomas, 30th European Hematology Association Congress (EHA)”, June 2025, PF1021.
@@ -29,6 +31,8 @@ title: ""
 -   M. Gerousi, M. Fitopoulou, M. Galanou, P. Rock, G. Karakatsoulis, **A. Anastasiadou**, M. Karipidou, A. Iatrou, E. Karamanli, N. Vastarouchas, P. Ghia, C. C. Chu, C. S. Zent, R. Burack, A. Chatzidimitriou, K. Stamatopoulos, “Distinct Signaling Profiles in Primary Splenic Small B-Cell Lymphomas,” *Blood*, vol. 144, Supplement 1, p. 3002, 2024, doi: [10.1182/blood-2024-207057](https://doi.org/10.1182/blood-2024-207057).
 
 -   G. Gkoliou, N. Pechlivanis, S. Chatzileontiadou, C. Frouzaki, G. Karakatsoulis, **A. Anastasiadou**, E. Vlachonikola, M. Gerousi, F. Psomopoulos, M. Papaioannou, K. Chlichlia, K. Stamatopoulos, E. Hatjiharissi, A. Chatzidimitriou, “Distinct Immunophenotype and Gene Expression Profiles of T cells In Peripheral Blood Versus Bone Marrow of Patients with Multiple Myeloma, 29th European Hematology Association Congress (EHA)”, June 2024.
+
+#### **2023**
 
 -   S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: [10.5281/zenodo.8432060](https://doi.org/10.5281/zenodo.8432060).
 

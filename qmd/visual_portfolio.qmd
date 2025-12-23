@@ -1,9 +1,5 @@
 ---
 title: "Check out some of my public projects below!"
-format:
-  html:
-    template-partials:
-      - ../title-block.html
 header-text: Check out some of my public projects below!
 listing: 
   id: portfolio-listings
