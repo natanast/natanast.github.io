@@ -91,6 +91,55 @@
     "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"
   },
   {
+    "objectID": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
+    "href": "docs/qmd/portfolio/software/euroleague/euroleugue.html",
+    "title": "Euroleague dataset",
+    "section": "",
+    "text": "Euroleague dataset\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: https://natanast.github.io/EuroleagueBasketball/"
+  },
+  {
+    "objectID": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "href": "docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html",
+    "title": "TidyTuesday Shiny App",
+    "section": "",
+    "text": "TidyTuesday Shiny App\n\nAbout this project\n\nThis Shiny app is an extension of my participation in the #TidyTuesday challenge, showcasing the visualizations and insights from my work.\nIt provides a user-friendly way to engage with the #TidyTuesday challenge, whether you’re looking for inspiration, examples, or insights into my data analysis journey.\nTidyTuesday is a weekly social data project organized by the Data Science Learning Community. It encourages participants to explore and visualize real-world data sets, fostering a collaborative environment for data analysis and sharing insights.\n\n\n\nTools used\nThe entire site is a Shiny application.\n\n\nVisit site\n🌐 Learn more about by visiting the app: TidyTuesday_app."
+  },
+  {
+    "objectID": "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+    "href": "docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+    "title": "30DayChartChallenge",
+    "section": "",
+    "text": "30DayChartChallenge\n\nAbout this project\n\nThe #30DayChartChallenge is an annual data visualization event that encourages participants to create one chart per day throughout April, following daily prompts and themes.\nThis project showcases my visual journey through the challenge, where I experimented with diverse datasets, visualization styles, and storytelling approaches.\n\n\n\nWho was involved\nThis was an individual project, created as part of my personal exploration of data visualization and creative coding in R.\n\n\nTools used\n\nR for data wrangling and visualization\nggplot2, ggtext, and patchwork for building and styling plots\n\n\n\nVisit site\n🌐 Explore the visualizations at the site: 30DayChartChallenge\n💻 View the source code: GitHub"
+  },
+  {
+    "objectID": "docs/qmd/about.html",
+    "href": "docs/qmd/about.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "I am Natasa and I am a Computational Biologist | Bioinformatic Scientist, working at Institute of Applied Biosciences (INAB) situated within the Centre for Research & Technology, Hellas (CERTH).\nI received my B.Sc. in Biochemistry and Biotechnology from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a M.Sc. in Translational Research in Biomedicine from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in Bioinformatics and Computational Biology.\nCurrently, my main focus is on analyzing and visualizing Next Generation Sequencing (NGS) data, aiming to extract meaningful biological insights. I am also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.\nYou can explore some of my work in my Visual Portfolio."
+  },
+  {
+    "objectID": "docs/qmd/photography.html",
+    "href": "docs/qmd/photography.html",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "",
+    "text": "Austrian Alps\n\n\n\n\n\nPeloponnese, Greece\n\n\n\n\n\nGrossarl, Austria"
+  },
+  {
+    "objectID": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+    "href": "docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+    "title": "Immunovisual",
+    "section": "",
+    "text": "Immunovisual\n\nAbout this project\n\nA collection of charts made with the R programming language, focusing on immunogenetics analyses.\nDifferent charts types are being organized into multiple sections, each accompanied by its reproducible code.\nThe gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe whole site is a quarto webpage. We mostly used ggplot2 for the visualizations.\n\n\nVisit site\n🌐 Learn more about by visiting our site: Immunovisual."
+  },
+  {
+    "objectID": "docs/qmd/portfolio/software/odyssey/odyssey.html",
+    "href": "docs/qmd/portfolio/software/odyssey/odyssey.html",
+    "title": "Odyssey",
+    "section": "",
+    "text": "Odyssey\n\nAbout this project\n\nOdyssey is an R shiny application for the exploration of Molecular Biodiversity in Greece.\nThe app provides a user-friendly interface that allows researchers, educators and citizens to navigate into the intricate world of molecular biodiversity effortlessly.\nThe current app prototype queries ENA to gather sequence data from samples taken across Greece. It provides tools for data exploration and analysis, including descriptive statistics, graphs, maps, customizable filters, and dynamic visualizations\n\n\n\nWho was involved\nThis project was built by me and Nikos Pechlivanis.\n\n\nTools used\nThe entire site is a Shiny application. We mostly used echarts4r for the visualizations.\n\n\nVisit site\nLearn more about by visiting our site: Odyssey."
+  },
+  {
     "objectID": "docs/qmd/publications.html",
     "href": "docs/qmd/publications.html",
     "title": "Anastasia (Natasa) Anastasiadou",

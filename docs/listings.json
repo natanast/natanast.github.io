@@ -20,5 +20,27 @@
       "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
       "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
     ]
+  },
+  {
+    "listing": "/docs/qmd/visual_portfolio.html",
+    "items": [
+      "/docs/qmd/portfolio/dataviz.html",
+      "/docs/qmd/portfolio/software.html"
+    ]
+  },
+  {
+    "listing": "/docs/qmd/portfolio/software.html",
+    "items": [
+      "/docs/qmd/portfolio/software/euroleague/euroleugue.html",
+      "/docs/qmd/portfolio/software/odyssey/odyssey.html"
+    ]
+  },
+  {
+    "listing": "/docs/qmd/portfolio/dataviz.html",
+    "items": [
+      "/docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
   }
 ]
