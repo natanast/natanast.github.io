@@ -30,3 +30,20 @@ body {
   font-size: 18px;
   line-height: 1.7; /* adds better readability */
 }
+
+
+/* --- Light/Dark Mode Image Switcher --- */
+
+/* Default state (Light Mode) */
+.dark-mode-only {
+  display: none !important;
+}
+
+/* Dark Mode State */
+body.quarto-dark .light-mode-only {
+  display: none !important;
+}
+
+body.quarto-dark .dark-mode-only {
+  display: block !important;
+}

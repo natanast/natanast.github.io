@@ -28,5 +28,6 @@ You can explore some of my work in my [Visual Portfolio](https://natanast.github
 :::
 
 ::: column-page
-![](/timeline.png){width="1008" height="71"}
+![](/timeline.png){.light-mode-only width="1008" height="71"}
+![](/timeline_dark.png){.dark-mode-only width="1008" height="71"}
 :::
