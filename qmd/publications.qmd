@@ -42,7 +42,7 @@ title: ""
 
 -   S.-C. Fragkouli, N. Pechlivanis, A. Orfanou, **A. Anastasiadou**, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB),” Oct. 2023, doi: [10.5281/zenodo.8432060](https://doi.org/10.5281/zenodo.8432060).
 
-## Other 
+## Other
 
 -   S. Fragkouli and N. Anastasiadou, “sfragkoul/synth4bench: synth4bench Release.” Zenodo, Mar. 2026, doi: [10.5281/zenodo.19049171](https://doi.org/10.5281/zenodo.19049171).
 
