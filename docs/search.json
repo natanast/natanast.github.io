@@ -81,7 +81,7 @@
     "href": "qmd/publications.html#other",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "Other",
-    "text": "Other\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
+    "text": "Other\n\nS. Fragkouli and N. Anastasiadou, “sfragkoul/synth4bench: synth4bench Release.” Zenodo, Mar. 2026, doi: 10.5281/zenodo.19049171.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
   },
   {
     "objectID": "qmd/publications.html#theses",
@@ -144,14 +144,14 @@
     "href": "docs/qmd/publications.html",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
+    "text": "A. Mingos, N. Pechlivanis, G. Karakatsoulis, A. Anastasiadou, G. Gkoliou, N. Vastarouchas, A. Siorenta, S. Marinaki, P. Tsoutsoura, M. Papamentzelopoulou, V. Pitiriga, M. Psichogiou, A. Hatzakis, K. Stamatopoulos, E. Vlachonikola, and A. Chatzidimitriou, “Longitudinal profiling of antigen receptor gene repertoire dynamics in kidney transplant recipients after multiple SARS-CoV-2 vaccinations,” ImmunoHorizons, vol. 10, no. 2, Feb. 2026, doi: 10.1093/immhor/vlag004\n\n\n\n\n\nF. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
   },
   {
     "objectID": "docs/qmd/publications.html#publications",
     "href": "docs/qmd/publications.html#publications",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "",
-    "text": "F. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
+    "text": "A. Mingos, N. Pechlivanis, G. Karakatsoulis, A. Anastasiadou, G. Gkoliou, N. Vastarouchas, A. Siorenta, S. Marinaki, P. Tsoutsoura, M. Papamentzelopoulou, V. Pitiriga, M. Psichogiou, A. Hatzakis, K. Stamatopoulos, E. Vlachonikola, and A. Chatzidimitriou, “Longitudinal profiling of antigen receptor gene repertoire dynamics in kidney transplant recipients after multiple SARS-CoV-2 vaccinations,” ImmunoHorizons, vol. 10, no. 2, Feb. 2026, doi: 10.1093/immhor/vlag004\n\n\n\n\n\nF. Psomopoulos, C. O’Cathail, N. Anastasiadou, C. Cocuzza, W. L. Cuypers, O. Idowu, K. Kyritsis, K. B. Lauer, M. Lavitrano, G. Leoni, J.-L. Liu, G. Macori, G. Mannarà, D. G. Manuel, M. Martinelli, R. Musumeci, A. Neves, N. Pechlivanis, M. Petrillo, J. Ragoussis, N. Rahman, K. Öjefors Stark, M. Thomson, M. J. Wade, M. Wright, and the ELIXIR Wastewater Surveillance Working Group, “Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats,” Open Research Europe, vol. 5, p. 267, Sep. 2025, doi: 10.12688/openreseurope.20934.1."
   },
   {
     "objectID": "docs/qmd/publications.html#conferences-and-announcements",
@@ -165,7 +165,7 @@
     "href": "docs/qmd/publications.html#other",
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "Other",
-    "text": "Other\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
+    "text": "Other\n\nS. Fragkouli and N. Anastasiadou, “sfragkoul/synth4bench: synth4bench Release.” Zenodo, Mar. 2026, doi: 10.5281/zenodo.19049171.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
   },
   {
     "objectID": "docs/qmd/publications.html#theses",
@@ -173,5 +173,19 @@
     "title": "Anastasia (Natasa) Anastasiadou",
     "section": "Theses",
     "text": "Theses\n\nA. Anastasiadou, “Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia.” Molecular Biology and Genetics Department, Democritus University of Thrace, 2023.  Master’s thesis\nA. Anastasiadou, “Study of genetic variations in patients with hematological malignancies.” Biochemistry and Biotechnology Department, University of Thessaly, 2021. Bachelor’s thesis"
+  },
+  {
+    "objectID": "qmd/publications.html#other-slidesdatasetsshort-articlespreprints",
+    "href": "qmd/publications.html#other-slidesdatasetsshort-articlespreprints",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "Other (Slides/Datasets/Short articles/Preprints)",
+    "text": "Other (Slides/Datasets/Short articles/Preprints)\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
+  },
+  {
+    "objectID": "docs/qmd/publications.html#other-slidesdatasetsshort-articlespreprints",
+    "href": "docs/qmd/publications.html#other-slidesdatasetsshort-articlespreprints",
+    "title": "Anastasia (Natasa) Anastasiadou",
+    "section": "Other (Slides/Datasets/Short articles/Preprints)",
+    "text": "Other (Slides/Datasets/Short articles/Preprints)\n\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Exploring Somatic Variant Callers’ Behavior: A Synthetic Genomics Feature Space Approach.” ELIXIR All Hands Meeting, Jun. 2024, doi: 10.7490/f1000research.1119793.1.\nS.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. E. Psomopoulos, “Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms.” 2024, doi: 10.1101/2024.03.07.582313."
   }
 ]
