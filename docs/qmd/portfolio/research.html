@@ -28,8 +28,6 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -60,66 +58,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-dataviz-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-dataviz-listings'] = new List('listing-dataviz-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../sass/style.css">
 </head>
@@ -350,82 +290,30 @@ window.Quarto = {
 
 <section id="funded-research-projects" class="level2">
 <h2 class="anchored" data-anchor-id="funded-research-projects"><span style="font-weight:400;">Funded Research Projects</span></h2>
-<section id="section" class="level4">
-<h4 class="anchored" data-anchor-id="section"></h4>
-
+<section id="late-aya" class="level3">
+<h3 class="anchored" data-anchor-id="late-aya">LATE-AYA</h3>
+<p><a href="https://www.late-aya.eu/">Understanding and addressing LATE-effects of treatment of AYA cancer survivors with AI-based digital phenotyping and non-invasive holistic approach</a></p>
+<p><strong>Duration:</strong> 2025-2030</p>
+<p><strong>Funder:</strong> HORIZON-MISS-2024-CANCER-01-05</p>
+<p><strong>Description:</strong> Adolescents and Young Adults (AYAs) face a distinct set of challenges, including increased risks of secondary cancers, cardiovascular diseases, infertility, and mental health issueslike anxiety and depression. Oncology programs delivering care to AYAs provide survivors with individualised survivorship care plans at the end of treatment, to accompany follow-up with their primary care providers. However, adherence to these plans is often scarce, due to differences in AYA survivors’ age, sex, cancer treatment received, and socioeconomical conditions. Knowledge and understanding of such factors and of related late effects and impacts on quality of life is fundamental to providing effective survivorship care. The ubiquitous use of mobile devices by AYAs offers an opportunity to increase knowledge and understanding of AYAs cancer survivors’ health status and behaviours, allowing the modelling of late effects and quality of life trajectories in the different age subgroups. Digital health interventions overcome many barriers to AYA participation in survivorship programs. LATE-AYA seeks to fill this gap by empowering AYAs to better manage their health and well-being post-cancer, by developing an AI-driven digital phenotyping platform for managing late effects (LE) of cancer treatment. The project will implement a holistic, non-invasive approach through digital tools such as smartphones and wearables to monitor physical, psychological, and social well-being. The project will focus on preventive health behaviours, psychological support, and social reintegration, providing personalized care through digital interventions. LATE-AYA will contribute to long-term quality of life improvements, facilitate early detection of LE, and provide data-driven insights on the impact of lifestyle choices on health outcomes. This project is supported by a diverse consortium of European institutions and will leverage the UNCAN.eu platform to share data and models, fostering wider collaboration across the EU. This action is part of the Cancer Mission cluster of projects on “Quality of life (AYA)”.</p>
+</section>
+<section id="odyssey" class="level3">
+<h3 class="anchored" data-anchor-id="odyssey">Odyssey</h3>
+<p>Odyssey, 05/2024 – present, Connecting molecular and geographical biodiversity data (ELIXIR BFSP commissioned service, part of the 2024-2028 Biodiversity, Food Security &amp; Pathogens Programme)</p>
+</section>
+<section id="elixir-steers" class="level3">
+<h3 class="anchored" data-anchor-id="elixir-steers">ELIXIR STEERS</h3>
+<p>ELIXIR STEERS, 03/2024 – Present, Developing, consolidating and optimising ELIXIR as an European research infrastructure (HORIZON INFRA 2023 DEV 01)</p>
+</section>
+<section id="scilake" class="level3">
+<h3 class="anchored" data-anchor-id="scilake">SciLake</h3>
+<p>SciLake, 09/2023 – 05/2024, Algorithms for large-scale biodata analysis (HORIZON-INFRA-2021-EOSC-01-04)</p>
 
 
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-dataviz-listings">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1766478261977" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="../../qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.png" class="thumbnail-image card-img" style="height: 15rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-30DayChartChallenge
-</h5>
-<div class="card-text listing-description delink">
-<p>A collection of data visualizations created for the #30DayChartChallenge, exploring different chart types, styles, and storytelling techniques in R.</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1766478261979" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
-<a href="../../qmd/portfolio/dataviz/immunovisual/immunovisual.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../qmd/portfolio/dataviz/immunovisual/immunovisual.png" class="thumbnail-image card-img" style="height: 15rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Immunovisual
-</h5>
-<div class="card-text listing-description delink">
-<p>A collection of charts made with the R programming language, focusing on immunogenetics analyses.</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1766478261982" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
-<a href="../../qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.png" class="thumbnail-image card-img" style="height: 15rem;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-TidyTuesday Shiny App
-</h5>
-<div class="card-text listing-description delink">
-<p>This Shiny app is an extension of my participation in the #TidyTuesday challenge.</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
