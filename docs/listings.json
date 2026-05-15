@@ -3,6 +3,8 @@
     "listing": "/qmd/visual_portfolio.html",
     "items": [
       "/qmd/portfolio/dataviz.html",
+      "/qmd/portfolio/research.html",
+      "/qmd/portfolio/publications.html",
       "/qmd/portfolio/software.html"
     ]
   },
@@ -24,7 +26,11 @@
   {
     "listing": "/docs/qmd/visual_portfolio.html",
     "items": [
+      "/docs/qmd/portfolio/dataviz - Copy.html",
       "/docs/qmd/portfolio/dataviz.html",
+      "/docs/qmd/portfolio/research.html",
+      "/docs/qmd/portfolio/publications.html",
+      "/docs/qmd/portfolio/research - Copy.html",
       "/docs/qmd/portfolio/software.html"
     ]
   },
@@ -41,6 +47,20 @@
       "/docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
       "/docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
       "/docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/research.html",
+    "items": [
+      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/publications.html",
+    "items": [
+      "/qmd/portfolio/publications/publications.html"
     ]
   }
 ]

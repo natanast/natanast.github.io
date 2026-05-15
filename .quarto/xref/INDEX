@@ -151,5 +151,53 @@
   },
   "docs/qmd/index.qmd": {
     "index.html": "11e4bc2f"
+  },
+  "research.qmd": {
+    "research.html": "c2d5532c"
+  },
+  "docs/qmd/portfolio/dataviz - Copy.qmd": {
+    "dataviz - Copy.html": "6ae0ee9f"
+  },
+  "docs/qmd/portfolio/research/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "6503485c"
+  },
+  "docs/qmd/portfolio/research/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "1d73af61"
+  },
+  "docs/qmd/portfolio/research/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "fb996bc3"
+  },
+  "docs/qmd/portfolio/research.qmd": {
+    "research.html": "a0b7220e"
+  },
+  "qmd/portfolio/research/30daychartchallenge/30daychartchallenge.qmd": {
+    "30daychartchallenge.html": "86c4febb"
+  },
+  "qmd/portfolio/research/immunovisual/immunovisual.qmd": {
+    "immunovisual.html": "0eb63452"
+  },
+  "qmd/portfolio/research/tidytuesdayapp/tidytuesdayapp.qmd": {
+    "tidytuesdayapp.html": "ec922e69"
+  },
+  "visual_portfolio.qmd": {
+    "visual_portfolio.html": "42b4cbb8"
+  },
+  "qmd/portfolio/research.qmd": {
+    "research.html": "fc20739e"
+  },
+  "docs/qmd/portfolio/publications.qmd": {
+    "publications.html": "9e4fc203"
+  },
+  "docs/qmd/portfolio/research - Copy.qmd": {
+    "research - Copy.html": "c1fb590b"
+  },
+  "qmd/portfolio/publications.qmd": {
+    "publications.html": "b1b1330d"
+  },
+  "docs/qmd/portfolio/publications/publications.qmd": {
+    "publications.html": "50be8723"
+  },
+  "qmd/portfolio/publications/publications.qmd": {
+    "publications.html": "9e7a56c9"
   }
 }

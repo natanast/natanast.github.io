@@ -1,0 +1,17 @@
+---
+image: plot.png
+listing: 
+  id: dataviz-listings
+  contents: 
+    - "/dataviz/30daychartchallenge/*.qmd"
+    - "/dataviz/immunovisual/*.qmd"
+    - "/dataviz/tidytuesdayapp/*.qmd"
+  type: grid
+  grid-columns: 2  
+  image-height: '15rem'  
+  sort: "title" 
+---
+
+## [Data Visualization Projects]{style="font-weight:400;"}
+
+#### 

@@ -9,6 +9,7 @@ listing:
   grid-columns: 2  # 1 item per row
   image-height: '15rem'  # Adjust image size
   sort: "title"
+  fields: [image, title]
 ---
 
 ## 
