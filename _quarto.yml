@@ -18,8 +18,8 @@ website:
         href: index.qmd
       - text: About
         href: qmd/about.qmd
-      - text: Publications
-        href: qmd/publications.qmd
+      # - text: Publications
+      #   href: qmd/publications.qmd
       - text: Visual Portfolio
         href: qmd/visual_portfolio.qmd
       - icon: github

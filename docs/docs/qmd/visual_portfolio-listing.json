@@ -1,0 +1,9 @@
+{
+  "listing": "/docs/qmd/visual_portfolio.html",
+  "items": [
+    "/docs/qmd/portfolio/dataviz.html",
+    "/docs/qmd/portfolio/research.html",
+    "/docs/qmd/portfolio/publications.html",
+    "/docs/qmd/portfolio/software.html"
+  ]
+}
