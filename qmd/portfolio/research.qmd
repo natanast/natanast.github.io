@@ -3,9 +3,9 @@ image: research.jpg
 title: ""
 ---
 
-## [Funded Research Projects]{style="font-weight:400;"}
+# [Funded Research Projects]{style="font-weight:400;"}
 
-### LATE-AYA
+## LATE-AYA
 
 [Understanding and addressing LATE-effects of treatment of AYA cancer survivors with AI-based digital phenotyping and non-invasive holistic approach](https://www.late-aya.eu/)
 
@@ -15,7 +15,7 @@ title: ""
 
 **Description:** Adolescents and Young Adults (AYAs) face a distinct set of challenges, including increased risks of secondary cancers, cardiovascular diseases, infertility, and mental health issueslike anxiety and depression. Oncology programs delivering care to AYAs provide survivors with individualised survivorship care plans at the end of treatment, to accompany follow-up with their primary care providers. However, adherence to these plans is often scarce, due to differences in AYA survivors’ age, sex, cancer treatment received, and socioeconomical conditions. Knowledge and understanding of such factors and of related late effects and impacts on quality of life is fundamental to providing effective survivorship care. The ubiquitous use of mobile devices by AYAs offers an opportunity to increase knowledge and understanding of AYAs cancer survivors’ health status and behaviours, allowing the modelling of late effects and quality of life trajectories in the different age subgroups. Digital health interventions overcome many barriers to AYA participation in survivorship programs. LATE-AYA seeks to fill this gap by empowering AYAs to better manage their health and well-being post-cancer, by developing an AI-driven digital phenotyping platform for managing late effects (LE) of cancer treatment. The project will implement a holistic, non-invasive approach through digital tools such as smartphones and wearables to monitor physical, psychological, and social well-being. The project will focus on preventive health behaviours, psychological support, and social reintegration, providing personalized care through digital interventions. LATE-AYA will contribute to long-term quality of life improvements, facilitate early detection of LE, and provide data-driven insights on the impact of lifestyle choices on health outcomes. This project is supported by a diverse consortium of European institutions and will leverage the UNCAN.eu platform to share data and models, fostering wider collaboration across the EU. This action is part of the Cancer Mission cluster of projects on “Quality of life (AYA)”.
 
-### Odyssey
+## Odyssey
 
 [*Connecting molecular and geographical biodiversity data*](https://elixir-europe.org/how-we-work/scientific-programme/commissioned-services/science/bfsp/odyssey)
 
@@ -25,10 +25,10 @@ title: ""
 
 **Description**: Odyssey is a web portal in the form of a user-friendly interface that will allow researchers, educators and citizens to navigate into the world of molecular biodiversity using Greece and Norway as case studies, two countries with characteristic and unique biodiversity wealth, representative for Mediterranean and Nordic types of ecosystems respectively. Based on existing sources of information and prototype applications that are available for specific regions and taxa, this project aims to link actual efforts and develop a new interface to offer diverse functionalities for data exploration and analysis such as descriptive statistics, graphs, maps, customizable data filters, and dynamic visualisations.
 
-### ELIXIR STEERS
+## ELIXIR STEERS
 
 ELIXIR STEERS, 03/2024 – Present, Developing, consolidating and optimising ELIXIR as an European research infrastructure (HORIZON INFRA 2023 DEV 01)
 
-### SciLake
+## SciLake
 
 SciLake, 09/2023 – 05/2024, Algorithms for large-scale biodata analysis (HORIZON-INFRA-2021-EOSC-01-04)
