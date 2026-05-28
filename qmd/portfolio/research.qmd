@@ -27,7 +27,13 @@ title: ""
 
 ## ELIXIR STEERS
 
-ELIXIR STEERS, 03/2024 – Present, Developing, consolidating and optimising ELIXIR as an European research infrastructure (HORIZON INFRA 2023 DEV 01)
+[Developing, consolidating and optimising ELIXIR as an European research infrastructure](https://elixir-europe.org/about-us/how-funded/eu-projects/steers)
+
+**Duration**: 03/2024 – 2027
+
+**Funder**: HORIZON-INFRA-2023-DEV-01
+
+**Description**: ELIXIR-STEERS aims to help life science researchers to access national data sets and conduct large-scale, cross-border analysis of data from across Europe. It will promote good software management practices and support life scientists with their software management needs. It will collect these good practices into a toolkit for green and reproducible software and workflows.
 
 ## SciLake
 
