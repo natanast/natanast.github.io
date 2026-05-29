@@ -3,7 +3,7 @@ image: research.jpg
 title: ""
 ---
 
-# [Funded Research Projects]{style="font-weight:400;"}
+# [Funded Research]{style="font-weight:400;"}
 
 ## LATE-AYA
 

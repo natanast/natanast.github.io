@@ -12,6 +12,6 @@ listing:
   sort: "title" 
 ---
 
-## [Data Visualization Projects]{style="font-weight:400;"}
+## [Data Visualization]{style="font-weight:400;"}
 
 #### 
