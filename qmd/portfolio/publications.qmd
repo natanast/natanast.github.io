@@ -19,7 +19,7 @@ title: ""
 
 #### 2026
 
-- A. Mallou, U. A. Sarkar, A. Anastasiadou, N. Pechlivanis, B. Oder, F. Nadeu, K. Zampouridou, A. Tziogkidou, K. Kardamiliotis, A. Iatrou, C. Österholm, L. Rabbani, D. Hägerstrand, I. Márquez-López, M. Mraz, F. Psomopoulos, A. Agathangelidis, R. Rosenquist, E. Campo, A. Chatzidimitriou, P. Ghia, K. Stamatopoulos, “Distinctive In Vivo Class-Switch Recombination Patterns in Chronic Lymphocytic Leukemia Stereotyped Subset #1: Molecular Evidence for Tumor Microenvironment-Driven Activation”, 31st European Hematology Association Congress (EHA), June 2026, PS1686.
+- A. Mallou, U. A. Sarkar, **A. Anastasiadou**, N. Pechlivanis, B. Oder, F. Nadeu, K. Zampouridou, A. Tziogkidou, K. Kardamiliotis, A. Iatrou, C. Österholm, L. Rabbani, D. Hägerstrand, I. Márquez-López, M. Mraz, F. Psomopoulos, A. Agathangelidis, R. Rosenquist, E. Campo, A. Chatzidimitriou, P. Ghia, K. Stamatopoulos, “Distinctive In Vivo Class-Switch Recombination Patterns in Chronic Lymphocytic Leukemia Stereotyped Subset #1: Molecular Evidence for Tumor Microenvironment-Driven Activation”, 31st European Hematology Association Congress (EHA), June 2026, PS1686.
 
 - Kartanos, G., Kyritsi, M., **Anastasiadou, A.**, Tsoureki, A., Thomou, Z., Michailidou, S., Kiossis, E., Psomopoulos, F., Argiriou, A., Siarkou, V., "Metagenomic insights into circulation and maintenance of antibiotic resistome in intensive dairy farm environments", in Proceedings of the Antibiotics 2026—Advances in Antimicrobial Action and Resistance, Barcelona, 11–14 May 2026, MDPI: Basel, Switzerland, doi:
 
