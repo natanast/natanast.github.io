@@ -5,6 +5,8 @@ title: ""
 
 # [Funded Research]{style="font-weight:400;"}
 
+*A list of research projects in which I have actively participated.*
+
 ## LATE-AYA
 
 [Understanding and addressing LATE-effects of treatment of AYA cancer survivors with AI-based digital phenotyping and non-invasive holistic approach](https://www.late-aya.eu/)
