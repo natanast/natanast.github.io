@@ -1,6 +1,6 @@
 ---
 about:
-  template: trestles 
+  template: jolla 
   image: ../images/DSC_1003.JPG
   image-shape: rounded
   image-width: 20em
@@ -18,6 +18,11 @@ comments: false
 ---
 
 ::: column-page
+![](/timeline.png){.light-mode-only width="1008" height="71"} ![](/timeline_dark.png){.dark-mode-only width="1008" height="71"}
+:::
+
+
+::: column-page
 I am Natasa and I am a **Computational Biologist \| Bioinformatic Scientist**, working at [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB) situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
 I received my **B.Sc.** in **Biochemistry and Biotechnology** from the University of Thessaly where i completed my thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, i obtained a **M.Sc.** in **Translational Research in Biomedicine** from the Democritus University of Thrace. During my master’s thesis titled ‘Characterization of *TP53* gene mutations in patients with Chronic Lymphocytic Leukemia,’ i became interested in **Bioinformatics** and **Computational Biology**.
@@ -27,7 +32,3 @@ Currently, my main focus is on ***analyzing** and **visualizing*** Next Generati
 You can explore some of my work in my [Visual Portfolio](https://natanast.github.io/qmd/visual_portfolio.html).
 :::
 
-::: column-page
-![](/timeline.png){.light-mode-only width="1008" height="71"}
-![](/timeline_dark.png){.dark-mode-only width="1008" height="71"}
-:::
