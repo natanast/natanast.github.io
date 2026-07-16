@@ -28,4 +28,4 @@ Today, my main focus in on **analyzing** and **visualizing** multi-omics NGS dat
 You can explore some of my work in my [Visual Portfolio](https://natanast.github.io/qmd/visual_portfolio.html).
 :::
 
-![](/timeline.png){.light-mode-only width="900" height="71"} ![](/timeline_dark.png){.dark-mode-only width="900" height="71"}
+![](/timeline.png){.light-mode-only width="825" height="62"} ![](/timeline_dark.png){.dark-mode-only width="825" height="62"}
