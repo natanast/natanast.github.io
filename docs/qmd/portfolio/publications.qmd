@@ -7,7 +7,7 @@ title: ""
 
 #### 2026
 
-- S.-C. Fragkouli, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic data for benchmarking tumor-only somatic variant calling algorithms”, Frontiers in Bioinformatics, vol. Volume 6 - 2026, 2026, doi: [10.3389/fbinf.2026.1858375](https://doi.org/10.3389/fbinf.2026.1858375)
+- S.-C. Fragkouli, N. Pechlivanis, **A. Anastasiadou**, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos, “Synth4bench: generating synthetic data for benchmarking tumor-only somatic variant calling algorithms”, Frontiers in Bioinformatics, vol. Volume 6 - 2026, 2026, doi: [10.3389/fbinf.2026.1858375](https://doi.org/10.3389/fbinf.2026.1858375)
 
 - A. Mingos, N. Pechlivanis, G. Karakatsoulis, **A. Anastasiadou**, G. Gkoliou, N. Vastarouchas, A. Siorenta, S. Marinaki, P. Tsoutsoura, M. Papamentzelopoulou, V. Pitiriga, M. Psichogiou, A. Hatzakis, K. Stamatopoulos, E. Vlachonikola, and A. Chatzidimitriou, “Longitudinal profiling of antigen receptor gene repertoire dynamics in kidney transplant recipients after multiple SARS-CoV-2 vaccinations”, ImmunoHorizons, vol. 10, no. 2, Feb. 2026, doi: [10.1093/immhor/vlag004](https://doi.org/10.1093/immhor/vlag004)
 
