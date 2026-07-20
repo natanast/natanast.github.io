@@ -15,10 +15,12 @@ about:
       url: "mailto:anastasiadounat@gmail.com"
     - text: CV
       url: "./files/cv.pdf"
+    - text: ORCID
+      url: "https://orcid.org/0009-0003-2908-7656"
 comments: false
 ---
-::: {#hero-heading}
 
+::: {#hero-heading}
 I am a **Computational Biologist \| Bioinformatic Scientist**, at the [Institute of Applied Biosciences](https://www.inab.certh.gr/) (INAB) within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx) (CERTH).
 
 I hold an **M.Sc.** in **Translational Research in Biomedicine** from the Democritus University of Thrace and a **B.Sc.** in **Biochemistry and Biotechnology** from the University of Thessaly. During my Master's research, I discovered a strong interest in **Bioinformatics**, seamlessly transitioning from a molecular background to data-driven biology aiming at extracting actionable insights from complex datasets.
@@ -26,7 +28,6 @@ I hold an **M.Sc.** in **Translational Research in Biomedicine** from the Democr
 Currently, my main focus in on **analyzing** and **visualizing** multi-omics NGS data, as well as developing interactive **web applications** and **websites**, making data exploration more accessible and user-friendly for biomedical researchers.
 
 You can explore some of my work in my [Visual Portfolio](https://natanast.github.io/qmd/visual_portfolio.html).
-
 :::
 
 ![](/timeline.png){.light-mode-only width="825" height="62"} ![](/timeline_dark.png){.dark-mode-only width="825" height="62"}
