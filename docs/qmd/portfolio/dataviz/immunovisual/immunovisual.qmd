@@ -1,0 +1,27 @@
+---
+title: ""
+image: immunovisual.png
+description: "A collection of charts made with the R programming language, focusing on immunogenetics analyses."
+---
+
+# Immunovisual
+
+### About this project
+
+-   A collection of charts made with the R programming language, focusing on immunogenetics analyses.
+
+-   Different charts types are being organized into multiple sections, each accompanied by its reproducible code.
+
+-   The gallery spotlights the utilization of prominent R packages such as tidyverse, data.table, and ggplot2.
+
+### Who was involved
+
+This project was built by me and [Nikos Pechlivanis](https://npechl.github.io/){target="_blank"}.
+
+### Tools used
+
+The whole site is a `quarto` webpage. We mostly used `ggplot2` for the visualizations.
+
+### Visit site
+
+🌐 Learn more about by visiting our site: [Immunovisual](https://natanast.github.io/immunovisual/).

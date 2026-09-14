@@ -2,7 +2,9 @@ project:
   type: website
   output-dir: docs
   resources:
+    - particles.json
     - files/
+    - qmd/
 
 website:
   search: false
@@ -16,28 +18,30 @@ website:
         href: index.qmd
       - text: About
         href: qmd/about.qmd
-      - text: Publications
-        href: qmd/publications.qmd
+      # - text: Publications
+      #   href: qmd/publications.qmd
       - text: Visual Portfolio
         href: qmd/visual_portfolio.qmd
-      - text: Photography
-        href: qmd/photography.qmd
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/in/natasa-anastasiadou-87405a220/
+        href: https://www.linkedin.com/in/natasa-anastasiadou/
         aria-label: LinkedIn
-        
+      - text: "<svg width='18' height='18' viewBox='0 0 24 24' fill='currentColor' xmlns='http://www.w3.org/2000/svg' style='vertical-align: middle; margin-bottom: 2px;'><path d='M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z'/></svg>"
+        href: https://orcid.org/0009-0003-2908-7656
+        aria-label: ORCID
 
   page-footer: 
     border: true
     left: "This page is built with ❤️, [Quarto](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/)."
-    right: "© 2025 Natasa Anastasiadou."
+    right: "© 2026 Natasa Anastasiadou."
 
 
 format:
   html:
+    partials:
+      title-block: qmd/title-block.html
     css: sass/style.css
     toc: false
     minimal: false

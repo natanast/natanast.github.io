@@ -2,9 +2,63 @@
   {
     "listing": "/qmd/visual_portfolio.html",
     "items": [
-      "/qmd/portfolio/immunovisual/immunovisual.html",
-      "/qmd/portfolio/odyssey/odyssey.html",
-      "/qmd/portfolio/tidytuesdayapp/tidytuesdayapp.html"
+      "/qmd/portfolio/dataviz.html",
+      "/qmd/portfolio/research.html",
+      "/qmd/portfolio/publications.html",
+      "/qmd/portfolio/software.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/software.html",
+    "items": [
+      "/qmd/portfolio/software/euroleague/euroleugue.html",
+      "/qmd/portfolio/software/odyssey/odyssey.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/dataviz.html",
+    "items": [
+      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/docs/qmd/visual_portfolio.html",
+    "items": [
+      "/docs/qmd/portfolio/dataviz.html",
+      "/docs/qmd/portfolio/research.html",
+      "/docs/qmd/portfolio/publications.html",
+      "/docs/qmd/portfolio/software.html"
+    ]
+  },
+  {
+    "listing": "/docs/qmd/portfolio/software.html",
+    "items": [
+      "/docs/qmd/portfolio/software/euroleague/euroleugue.html",
+      "/docs/qmd/portfolio/software/odyssey/odyssey.html"
+    ]
+  },
+  {
+    "listing": "/docs/qmd/portfolio/dataviz.html",
+    "items": [
+      "/docs/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/docs/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/docs/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/research.html",
+    "items": [
+      "/qmd/portfolio/dataviz/30daychartchallenge/30daychartchallenge.html",
+      "/qmd/portfolio/dataviz/immunovisual/immunovisual.html",
+      "/qmd/portfolio/dataviz/tidytuesdayapp/tidytuesdayapp.html"
+    ]
+  },
+  {
+    "listing": "/qmd/portfolio/publications.html",
+    "items": [
+      "/qmd/portfolio/publications/publications.html"
     ]
   }
 ]
